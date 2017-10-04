@@ -2,14 +2,94 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507123049475">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/index.html" timestamp="1507121750199">
+        <mark key="[" line="8" column="101" />
+        <mark key="]" line="11" column="91" />
+        <mark key="^" line="11" column="91" />
+        <mark key="." line="11" column="91" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" timestamp="1507122351224">
+        <mark key="'" line="308" column="0" />
+        <mark key="[" line="0" column="79" />
+        <mark key="]" line="366" column="0" />
+        <mark key="^" line="366" column="0" />
+        <mark key="." line="366" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="387" column="5" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
+      <jump line="366" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="1" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="308" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="45" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
+      <jump line="411" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
+      <jump line="183" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
+      <jump line="153" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
+      <jump line="125" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
+      <jump line="107" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
+      <jump line="74" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
+      <jump line="54" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICBkaXZpdiAK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICBkaXZpdiAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PC91bD4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICA8L2xpPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxoMj48YSB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciIgaHJlZj0iaHR0cHM6Ly9ibG9nLmFuZ3VsYXIuaW8vIj5Bbmd1bGFyIGJsb2c8L2E+PC9oMj4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICA8bGk+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICA8L2xpPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxoMj48YSB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciIgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2FuZ3VsYXIvYW5ndWxhci1jbGkvd2lraSI+Q0xJIERvY3VtZW50YXRpb248L2E+PC9oMj4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICA8bGk+Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
