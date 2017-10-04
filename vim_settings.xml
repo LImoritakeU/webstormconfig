@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507123049475">
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507123936278">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="197" column="14" />
+        <mark key="]" line="198" column="7" />
+        <mark key="." line="198" column="7" />
+        <mark key="^" line="198" column="7" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/index.html" timestamp="1507121750199">
         <mark key="[" line="8" column="101" />
@@ -15,20 +16,17 @@
         <mark key="^" line="11" column="91" />
         <mark key="." line="11" column="91" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" timestamp="1507122351224">
-        <mark key="'" line="308" column="0" />
-        <mark key="[" line="0" column="79" />
-        <mark key="]" line="366" column="0" />
-        <mark key="^" line="366" column="0" />
-        <mark key="." line="366" column="0" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" timestamp="1507124141954">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="290" column="1" />
+        <mark key="]" line="291" column="0" />
+        <mark key="." line="291" column="0" />
+        <mark key="^" line="291" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="387" column="5" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
       <jump line="366" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="1" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="308" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
       <jump line="45" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
       <jump line="411" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
       <jump line="183" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
@@ -38,37 +36,61 @@
       <jump line="74" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
       <jump line="54" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
+      <jump line="12" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="308" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="314" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="377" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="319" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="291" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="274" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="204" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="197" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="176" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="139" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="116" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="82" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="70" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="58" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="33" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="1" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICBkaXZpdiAK</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICBkaXZpdiAK</text>
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="-" type="4">
+        <text>-</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgPCEtLemDteS7tuWFp+WuuS0tPgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC91bD4K</text>
+        <text encoding="base64">ICAgICAgPCEtLS0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8L2xpPgo=</text>
+        <text encoding="base64">ICAgICA8L3VsPgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxoMj48YSB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciIgaHJlZj0iaHR0cHM6Ly9ibG9nLmFuZ3VsYXIuaW8vIj5Bbmd1bGFyIGJsb2c8L2E+PC9oMj4K</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICA8dWwgY2xhc3M9Im5hdiBuYXYtcGlsbHMgbmF2LXN0YWNrZWQgbGFiZWxzLWluZm8gIj4KICAgICAgICA8bGk+IDxoND5CdWRkeSBvbmxpbmU8L2g0PiA8L2xpPgogICAgICAgIDxsaT4gPGEgaHJlZj0iIyI+IDxpIGNsYXNzPSIgZmEgZmEtY2lyY2xlIHRleHQtc3VjY2VzcyI+PC9pPkFsaXJlemEgWmFyZSA8cD5JIGRvIG5vdCB0aGluazwvcD48L2E+ICA8L2xpPgogICAgICAgIDxsaT4gPGEgaHJlZj0iIyI+IDxpIGNsYXNzPSIgZmEgZmEtY2lyY2xlIHRleHQtZGFuZ2VyIj48L2k+RGFyayBDb2RlcnM8cD5CdXN5IHdpdGggY29kaW5nPC9wPjwvYT4gPC9saT4KICAgICAgICA8bGk+IDxhIGhyZWY9IiMiPiA8aSBjbGFzcz0iIGZhIGZhLWNpcmNsZSB0ZXh0LW11dGVkICI+PC9pPk1lbnRhYWxpc3QgPHA+SSBvdXQgb2YgY29udHJvbDwvcD48L2E+CiAgICAgICAgPC9saT48bGk+IDxhIGhyZWY9IiMiPiA8aSBjbGFzcz0iIGZhIGZhLWNpcmNsZSB0ZXh0LW11dGVkICI+PC9pPkgzczRtPHA+SSBhbSBub3QgaGVyZTwvcD48L2E+CiAgICAgIDwvbGk+PGxpPiA8YSBocmVmPSIjIj4gPGkgY2xhc3M9IiBmYSBmYS1jaXJjbGUgdGV4dC1tdXRlZCAiPjwvaT5EZWFkIG1hbjxwPkkgZG8gbm90IHRoaW5rPC9wPjwvYT4KICAgICAgPC9saT4KICAgICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8bGk+Cg==</text>
+        <text encoding="base64">ICAgICAgPHVsIGNsYXNzPSJuYXYgbmF2LXBpbGxzIG5hdi1zdGFja2VkIGxhYmVscy1pbmZvICI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgYAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxoMj48YSB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciIgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2FuZ3VsYXIvYW5ndWxhci1jbGkvd2lraSI+Q0xJIERvY3VtZW50YXRpb248L2E+PC9oMj4K</text>
+        <text encoding="base64">PCEtLS0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8bGk+Cg==</text>
+        <text encoding="base64">ICAgICBkaXZpdiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
