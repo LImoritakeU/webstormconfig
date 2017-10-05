@@ -6,12 +6,12 @@
       <file name="/Dummy.txt" timestamp="1507128843607">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507123936278">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="203" column="14" />
-        <mark key="]" line="204" column="7" />
-        <mark key="." line="204" column="7" />
-        <mark key="^" line="204" column="7" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507211250317">
+        <mark key="'" line="428" column="0" />
+        <mark key="[" line="219" column="15" />
+        <mark key="]" line="220" column="9" />
+        <mark key="." line="220" column="9" />
+        <mark key="^" line="220" column="9" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/index.html" timestamp="1507121750199">
         <mark key="[" line="8" column="101" />
@@ -70,13 +70,17 @@
       <jump line="6" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/.gitignore" />
       <jump line="1" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/.gitignore" />
+      <jump line="422" column="18" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
+      <jump line="193" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
+      <jump line="204" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
+      <jump line="427" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>n</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPCEtLemDteS7tuWFp+WuuS0tPgo=</text>
