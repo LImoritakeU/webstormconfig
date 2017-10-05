@@ -6,18 +6,36 @@
       <file name="/Dummy.txt" timestamp="1507128843607">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507211250317">
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/typings.d.ts" timestamp="1507215402002">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507217249970">
         <mark key="'" line="428" column="0" />
-        <mark key="[" line="219" column="15" />
-        <mark key="]" line="220" column="9" />
-        <mark key="." line="220" column="9" />
-        <mark key="^" line="220" column="9" />
+        <mark key="[" line="208" column="71" />
+        <mark key="]" line="208" column="53" />
+        <mark key="." line="208" column="53" />
+        <mark key="^" line="208" column="53" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/proxy.config.json" timestamp="1507218942231">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/index.html" timestamp="1507121750199">
         <mark key="[" line="8" column="101" />
         <mark key="]" line="11" column="91" />
         <mark key="^" line="11" column="91" />
         <mark key="." line="11" column="91" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1507219203199">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+        <mark key="^" line="20" column="27" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" timestamp="1507124141954">
         <mark key="'" line="0" column="0" />
@@ -28,6 +46,18 @@
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/.gitignore" timestamp="1507128751634">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/data.service.ts" timestamp="1507218807231">
+        <mark key="[" line="17" column="57" />
+        <mark key="]" line="17" column="47" />
+        <mark key="." line="17" column="47" />
+        <mark key="^" line="17" column="47" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.module.ts" timestamp="1507216907581">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -74,10 +104,11 @@
       <jump line="193" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
       <jump line="204" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
       <jump line="427" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
+      <jump line="11" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/proxy.config.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgJ0FjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbic6ICcqJywK</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -86,31 +117,31 @@
         <text encoding="base64">ICAgICAgPCEtLemDteS7tuWFp+WuuS0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgJ0FjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbic6ICcqJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgJ0FjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbic6ICcqJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPCEtLS0tPgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICA8L3VsPgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICA8dWwgY2xhc3M9Im5hdiBuYXYtcGlsbHMgbmF2LXN0YWNrZWQgbGFiZWxzLWluZm8gIj4KICAgICAgICA8bGk+IDxoND5CdWRkeSBvbmxpbmU8L2g0PiA8L2xpPgogICAgICAgIDxsaT4gPGEgaHJlZj0iIyI+IDxpIGNsYXNzPSIgZmEgZmEtY2lyY2xlIHRleHQtc3VjY2VzcyI+PC9pPkFsaXJlemEgWmFyZSA8cD5JIGRvIG5vdCB0aGluazwvcD48L2E+ICA8L2xpPgogICAgICAgIDxsaT4gPGEgaHJlZj0iIyI+IDxpIGNsYXNzPSIgZmEgZmEtY2lyY2xlIHRleHQtZGFuZ2VyIj48L2k+RGFyayBDb2RlcnM8cD5CdXN5IHdpdGggY29kaW5nPC9wPjwvYT4gPC9saT4KICAgICAgICA8bGk+IDxhIGhyZWY9IiMiPiA8aSBjbGFzcz0iIGZhIGZhLWNpcmNsZSB0ZXh0LW11dGVkICI+PC9pPk1lbnRhYWxpc3QgPHA+SSBvdXQgb2YgY29udHJvbDwvcD48L2E+CiAgICAgICAgPC9saT48bGk+IDxhIGhyZWY9IiMiPiA8aSBjbGFzcz0iIGZhIGZhLWNpcmNsZSB0ZXh0LW11dGVkICI+PC9pPkgzczRtPHA+SSBhbSBub3QgaGVyZTwvcD48L2E+CiAgICAgIDwvbGk+PGxpPiA8YSBocmVmPSIjIj4gPGkgY2xhc3M9IiBmYSBmYS1jaXJjbGUgdGV4dC1tdXRlZCAiPjwvaT5EZWFkIG1hbjxwPkkgZG8gbm90IHRoaW5rPC9wPjwvYT4KICAgICAgPC9saT4KICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICdBdXRoZW50aWNhdGlvbic6ICd0b2tlbiA5OGQzYWY1MS05ODk0LTQ5MzEtYjA2MC0wZGNkODJkYTY4NWUnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPHVsIGNsYXNzPSJuYXYgbmF2LXBpbGxzIG5hdi1zdGFja2VkIGxhYmVscy1pbmZvICI+Cg==</text>
+        <text encoding="base64">ICBtYWlscyA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCEtLS0tPgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICBkaXZpdiAK</text>
+        <text encoding="base64">ICBleHBvcnQgZGVmYXVsdCB2YWx1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -123,6 +154,8 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
