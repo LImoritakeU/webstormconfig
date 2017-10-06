@@ -9,13 +9,13 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507221921538">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/typings.d.ts" timestamp="1507215402002">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1507271430153">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507264527993">
         <mark key="'" line="225" column="0" />
