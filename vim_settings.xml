@@ -9,27 +9,12 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/typings.d.ts" timestamp="1507215402002">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1507271430153">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507264527993">
         <mark key="'" line="225" column="0" />
         <mark key="[" line="165" column="40" />
         <mark key="]" line="165" column="60" />
         <mark key="." line="165" column="60" />
         <mark key="^" line="165" column="60" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/proxy.config.json" timestamp="1507218942231">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/package.json" timestamp="1507220568085">
         <mark key="[" line="6" column="22" />
@@ -43,6 +28,33 @@
         <mark key="^" line="11" column="91" />
         <mark key="." line="11" column="91" />
       </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/README.md" timestamp="1507272001666">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="23" column="26" />
+        <mark key="^" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/.gitignore" timestamp="1507128751634">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/data.service.ts" timestamp="1507259392899">
+        <mark key="[" line="31" column="6" />
+        <mark key="]" line="31" column="12" />
+        <mark key="." line="31" column="12" />
+        <mark key="^" line="31" column="12" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/typings.d.ts" timestamp="1507215402002">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/proxy.config.json" timestamp="1507218942231">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1507264565059">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="37" column="28" />
@@ -55,15 +67,6 @@
         <mark key="]" line="339" column="0" />
         <mark key="." line="339" column="0" />
         <mark key="^" line="339" column="0" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/.gitignore" timestamp="1507128751634">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/data.service.ts" timestamp="1507259392899">
-        <mark key="[" line="31" column="6" />
-        <mark key="]" line="31" column="12" />
-        <mark key="." line="31" column="12" />
-        <mark key="^" line="31" column="12" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.module.ts" timestamp="1507216907581">
         <mark key="[" line="20" column="14" />
