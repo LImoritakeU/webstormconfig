@@ -17,12 +17,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507262745475">
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507263747162">
         <mark key="'" line="225" column="0" />
         <mark key="[" line="208" column="75" />
-        <mark key="]" line="158" column="65" />
-        <mark key="." line="158" column="65" />
-        <mark key="^" line="158" column="65" />
+        <mark key="]" line="208" column="99" />
+        <mark key="." line="208" column="99" />
+        <mark key="^" line="208" column="99" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/proxy.config.json" timestamp="1507218942231">
         <mark key="'" line="11" column="0" />
