@@ -9,24 +9,15 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/typings.d.ts" timestamp="1507215402002">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507264527993">
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507739352156">
         <mark key="'" line="225" column="0" />
-        <mark key="[" line="165" column="40" />
-        <mark key="]" line="165" column="60" />
-        <mark key="." line="165" column="60" />
-        <mark key="^" line="165" column="60" />
+        <mark key="[" line="175" column="29" />
+        <mark key="]" line="175" column="50" />
+        <mark key="." line="175" column="50" />
+        <mark key="^" line="175" column="50" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/proxy.config.json" timestamp="1507218942231">
-        <mark key="'" line="11" column="0" />
+      <file name="/fragment.js" timestamp="1507738324807">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/package.json" timestamp="1507732169904">
         <mark key="[" line="6" column="22" />
@@ -40,24 +31,11 @@
         <mark key="^" line="11" column="91" />
         <mark key="." line="11" column="91" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1507264565059">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="37" column="28" />
-        <mark key="." line="37" column="28" />
-        <mark key="^" line="37" column="28" />
-      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/README.md" timestamp="1507272001666">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="23" column="26" />
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" timestamp="1507124141954">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="338" column="1" />
-        <mark key="]" line="339" column="0" />
-        <mark key="." line="339" column="0" />
-        <mark key="^" line="339" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/.gitignore" timestamp="1507128751634">
         <mark key="'" line="0" column="0" />
@@ -67,6 +45,31 @@
         <mark key="]" line="31" column="12" />
         <mark key="." line="31" column="12" />
         <mark key="^" line="31" column="12" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/typings.d.ts" timestamp="1507215402002">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/proxy.config.json" timestamp="1507218942231">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1507739563627">
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="55" column="28" />
+        <mark key="." line="55" column="28" />
+        <mark key="^" line="55" column="28" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" timestamp="1507124141954">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="338" column="1" />
+        <mark key="]" line="339" column="0" />
+        <mark key="." line="339" column="0" />
+        <mark key="^" line="339" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.module.ts" timestamp="1507216907581">
         <mark key="[" line="20" column="14" />
@@ -138,40 +141,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB0aXRsZSA9ICdhcHAnOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IChjbGljayk9InRvZ2dsZVN0YXIoaXRlbSk=</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPCEtLemDteS7tuWFp+WuuS0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0aXRsZSA9ICdhcHAnOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgY2hlY2tVbnJlYWQoKSB7CiAgICByZXR1cm4gdGhpcy5tYWlscy5maWx0ZXIoaXRlbSA9PiBpdGVtLnVucmVhZCA9PT0gdHJ1ZSk7CiAgfQoKICBjaGVja1JlYWQoKTogdm9pZCB7CiAgfQoKICBjaGVja0FsbCgpOiB2b2lkIHsKICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVtLnVucmVhZCA9IGZhbHNlOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBjaGVja1VucmVhZCgpIHsKICAgIHJldHVybiB0aGlzLm1haWxzLmZpbHRlcihpdGVtID0+IGl0ZW0udW5yZWFkID09PSB0cnVlKTsKICB9CgogIGNoZWNrUmVhZCgpOiB2b2lkIHsKICB9CgogIGNoZWNrQWxsKCk6IHZvaWQgewogIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBuZXdNYWlsID0gWy4uLm1haWxzXTsK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9ic2VydmFibGUub2Y8YW55W10+KFtdKTsK</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cuYWxlcnQoaXRlbS51bnJlYWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpdGVtLnVucmVhZCA9IGZhbHNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBuZXdNYWlscyA9IFsuLi50aGlzLm1haWxzXTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKGl0ZW0uY2hlY2tlZCA9PT0gdHJ1ZSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -185,8 +188,8 @@
       <history-search />
       <history-cmd>
         <entry>Q</entry>
-        <entry>q</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -204,6 +207,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
