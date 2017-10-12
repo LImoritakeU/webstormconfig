@@ -58,12 +58,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1507820880832">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="20" />
-        <mark key="^" line="13" column="20" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1507823645412">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="80" />
+        <mark key="." line="22" column="80" />
+        <mark key="^" line="22" column="80" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" timestamp="1507124141954">
         <mark key="'" line="0" column="0" />
@@ -169,11 +169,11 @@
       <jump line="73" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB1bnJlYWRNYWlscyA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bmV3IERhdGUoYS5kYXRldGltZSkuZ2V0VGltZSgpIA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">bmV3IERhdGUoYS5kYXRldGltZSkuZ2V0VGltZSgpIA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPCEtLemDteS7tuWFp+WuuS0tPgo=</text>
