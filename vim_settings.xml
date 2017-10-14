@@ -9,12 +9,12 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507983780354">
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507984801059">
         <mark key="'" line="233" column="0" />
-        <mark key="[" line="181" column="16" />
-        <mark key="]" line="181" column="15" />
-        <mark key="." line="181" column="15" />
-        <mark key="^" line="181" column="15" />
+        <mark key="[" line="215" column="59" />
+        <mark key="]" line="215" column="72" />
+        <mark key="." line="215" column="72" />
+        <mark key="^" line="215" column="72" />
       </file>
       <file name="/fragment.js" timestamp="1507738324807">
         <mark key="[" line="0" column="0" />
@@ -46,11 +46,10 @@
       <file name="$USER_HOME$/ezcloud/ezmail/client/.gitignore" timestamp="1507128751634">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/data.service.ts" timestamp="1507259392899">
-        <mark key="[" line="31" column="6" />
-        <mark key="]" line="31" column="12" />
-        <mark key="." line="31" column="12" />
-        <mark key="^" line="31" column="12" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/data.service.ts" timestamp="1507984468988">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/typings.d.ts" timestamp="1507215402002">
         <mark key="[" line="3" column="0" />
@@ -64,11 +63,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1507827106611">
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1507984758997">
         <mark key="'" line="72" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+        <mark key="^" line="26" column="41" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" timestamp="1507124141954">
         <mark key="'" line="0" column="0" />
@@ -178,7 +178,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJlY2VpdmVEYXRldGltZVBpcGUK</text>
+        <text encoding="base64">ICBzYXZlT25lRW1haWwoKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bmV3IERhdGUoYS5kYXRldGltZSkuZ2V0VGltZSgpIA==</text>
@@ -187,31 +187,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHRkIGNsYXNzPSJ2aWV3LW1lc3NhZ2UgIHRleHQtcmlnaHQiICpuZ0lmPSJpZlRvZGF5KGl0ZW0uZGF0ZXRpbWUpIj57e2l0ZW0uZGF0ZXRpbWUgfCBkYXRlOiAnc2hvcnQnfX08L3RkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJlY2VpdmVEYXRldGltZVBpcGUK</text>
+        <text encoding="base64">ICBzYXZlT25lRW1haWwoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVjZWl2ZURhdGV0aW1lUGlwZSB9IGZyb20gJy4vcmVjZWl2ZS1kYXRldGltZS5waXBlJzsK</text>
+        <text encoding="base64">ICAgIFJlY2VpdmVEYXRldGltZVBpcGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKHZhbHVlKS50b0RhdGVTdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVjZWl2ZURhdGV0aW1lUGlwZSB9IGZyb20gJy4vcmVjZWl2ZS1kYXRldGltZS5waXBlJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvZGF5LnRvRGF0ZVN0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKHZhbHVlKS50b0RhdGVTdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvZGF5LnRvRGF0ZVN0cmluZygpKTsKICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKHZhbHVlKS50b0RhdGVTdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvZGF5LnRvRGF0ZVN0cmluZygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvZGF5LnRvRGF0ZVN0cmluZygpKTsKICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKHZhbHVlKS50b0RhdGVTdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAoYSwgYikgPT4gbmV3IERhdGUoYi5kYXRldGltZSkuZ2V0VGltZSgpIC0gbmV3IERhdGUoYS5kYXRldGltZSkuZ2V0VGltZSgpCg==</text>
+        <text encoding="base64">ICAgICAgLy8gKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGhpcy5tYWlscyA9IGRhdGEuc29ydCgK</text>
+        <text encoding="base64">ICAgICAgLy8gICAoYSwgYikgPT4gbmV3IERhdGUoYi5kYXRldGltZSkuZ2V0VGltZSgpIC0gbmV3IERhdGUoYS5kYXRldGltZSkuZ2V0VGltZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -248,6 +248,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
