@@ -9,12 +9,12 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507984801059">
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507987537977">
         <mark key="'" line="233" column="0" />
-        <mark key="[" line="215" column="59" />
-        <mark key="]" line="215" column="72" />
-        <mark key="." line="215" column="72" />
-        <mark key="^" line="215" column="72" />
+        <mark key="[" line="215" column="60" />
+        <mark key="]" line="215" column="58" />
+        <mark key="." line="215" column="58" />
+        <mark key="^" line="215" column="58" />
       </file>
       <file name="/fragment.js" timestamp="1507738324807">
         <mark key="[" line="0" column="0" />
@@ -70,12 +70,13 @@
         <mark key="." line="26" column="41" />
         <mark key="^" line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" timestamp="1507124141954">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="338" column="1" />
-        <mark key="]" line="339" column="0" />
-        <mark key="." line="339" column="0" />
-        <mark key="^" line="339" column="0" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" timestamp="1507987530258">
+        <mark key="'" line="215" column="34" />
+        <mark key="[" line="215" column="39" />
+        <mark key="]" line="215" column="37" />
+        <mark key="." line="215" column="37" />
+        <mark key="^" line="215" column="37" />
+        <mark key="n" line="215" column="34" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.module.ts" timestamp="1507983401656">
         <mark key="[" line="13" column="19" />
@@ -175,6 +176,8 @@
       <jump line="207" column="1" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
       <jump line="229" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
       <jump line="231" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
+      <jump line="224" column="44" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
+      <jump line="215" column="34" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -182,6 +185,9 @@
       </register>
       <register name="-" type="4">
         <text encoding="base64">bmV3IERhdGUoYS5kYXRldGltZSkuZ2V0VGltZSgpIA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>started</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHRkIGNsYXNzPSJ2aWV3LW1lc3NhZ2UgIHRleHQtcmlnaHQiICpuZ0lmPSJpZlRvZGF5KGl0ZW0uZGF0ZXRpbWUpIj57e2l0ZW0uZGF0ZXRpbWUgfCBkYXRlOiAnc2hvcnQnfX08L3RkPgo=</text>
@@ -218,11 +224,16 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>started</last-search>
+      <last-offset />
+      <last-pattern>started</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>started</entry>
+      </history-search>
       <history-cmd>
         <entry>Q</entry>
         <entry>W</entry>
