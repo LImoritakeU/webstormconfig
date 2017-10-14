@@ -9,12 +9,12 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507997905480">
-        <mark key="'" line="236" column="0" />
-        <mark key="[" line="98" column="74" />
-        <mark key="]" line="98" column="73" />
-        <mark key="." line="98" column="73" />
-        <mark key="^" line="98" column="73" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507999221223">
+        <mark key="'" line="240" column="0" />
+        <mark key="[" line="225" column="45" />
+        <mark key="]" line="226" column="45" />
+        <mark key="^" line="226" column="45" />
+        <mark key="." line="226" column="45" />
       </file>
       <file name="/fragment.js" timestamp="1507738324807">
         <mark key="[" line="0" column="0" />
@@ -189,7 +189,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+CiAgICAgICAgICA8YSBocmVmPSIjIiAoY2xpY2spPSJsb2FkTWFpbHMoJ3RyYXNoJykiPjxpIGNsYXNzPSIgZmEgZmEtdHJhc2gtbyI+PC9pPiBUcmFzaDwvYT4KICAgICAgICA8L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ibGFiZWwgbGFiZWwtZGFuZ2VyIHB1bGwtcmlnaHQiICpuZ1N3aXRjaENhc2U9IidkZXNpZ24nIj5kZXNpZ248L3NwYW4+Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bmV3IERhdGUoYS5kYXRldGltZSkuZ2V0VGltZSgpIA==</text>
@@ -198,34 +198,34 @@
         <text>toggleUnread</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+CiAgICAgICAgICA8YSBocmVmPSIjIiAoY2xpY2spPSJsb2FkTWFpbHMoJ3RyYXNoJykiPjxpIGNsYXNzPSIgZmEgZmEtdHJhc2gtbyI+PC9pPiBUcmFzaDwvYT4KICAgICAgICA8L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ibGFiZWwgbGFiZWwtZGFuZ2VyIHB1bGwtcmlnaHQiICpuZ1N3aXRjaENhc2U9IidkZXNpZ24nIj5kZXNpZ248L3NwYW4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtOVUxMX0VYUFJ9IGZyb20gIkBhbmd1bGFyL2NvbXBpbGVyL3NyYy9vdXRwdXQvb3V0cHV0X2FzdCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7e2l0ZW0uc2VuZGVyfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtOVUxMX0VYUFJ9IGZyb20gIkBhbmd1bGFyL2NvbXBpbGVyL3NyYy9vdXRwdXQvb3V0cHV0X2FzdCI7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAnaW5ib3gnOgogICAgICAgIHVybCA9ICcuL21lL2luYm94JzsKICAgICAgICBicmVhazsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdXJsIGZyb20gInVybCI7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMudW5yZWFkTWFpbHMgPSB0aGlzLmluYm94VW5yZWFkKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSAnaW5ib3gnOgogICAgICAgIHVybCA9ICcuL21lL2luYm94JzsKICAgICAgICBicmVhazsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgdXJsIGZyb20gInVybCI7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRoaXMudW5yZWFkTWFpbHMgPSB0aGlzLmluYm94VW5yZWFkKCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzd2l0Y2hTZW50KCl7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
