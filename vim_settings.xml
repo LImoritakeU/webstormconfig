@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/read-filter.pipe.ts" timestamp="1507988971580">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="29" />
-        <mark key="^" line="7" column="29" />
-        <mark key="." line="7" column="29" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/read-filter.pipe.ts" timestamp="1507997452272">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="22" column="4" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507987537977">
-        <mark key="'" line="233" column="0" />
-        <mark key="[" line="215" column="60" />
-        <mark key="]" line="215" column="58" />
-        <mark key="." line="215" column="58" />
-        <mark key="^" line="215" column="58" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507997905480">
+        <mark key="'" line="236" column="0" />
+        <mark key="[" line="98" column="74" />
+        <mark key="]" line="98" column="73" />
+        <mark key="." line="98" column="73" />
+        <mark key="^" line="98" column="73" />
       </file>
       <file name="/fragment.js" timestamp="1507738324807">
         <mark key="[" line="0" column="0" />
@@ -46,11 +46,11 @@
       <file name="$USER_HOME$/ezcloud/ezmail/client/.gitignore" timestamp="1507128751634">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/data.service.ts" timestamp="1507994790377">
-        <mark key="[" line="39" column="37" />
-        <mark key="]" line="35" column="26" />
-        <mark key="." line="35" column="26" />
-        <mark key="^" line="35" column="26" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/data.service.ts" timestamp="1507997165587">
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="23" column="19" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/type-filter.pipe.ts" timestamp="1507989158731">
         <mark key="[" line="7" column="28" />
@@ -189,7 +189,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGk+CiAgICAgICAgICA8YSBocmVmPSIjIiAoY2xpY2spPSJsb2FkTWFpbHMoJ3RyYXNoJykiPjxpIGNsYXNzPSIgZmEgZmEtdHJhc2gtbyI+PC9pPiBUcmFzaDwvYT4KICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bmV3IERhdGUoYS5kYXRldGltZSkuZ2V0VGltZSgpIA==</text>
@@ -198,34 +198,34 @@
         <text>toggleUnread</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkIGNsYXNzPSJ2aWV3LW1lc3NhZ2UgIHRleHQtcmlnaHQiICpuZ0lmPSJpZlRvZGF5KGl0ZW0uZGF0ZXRpbWUpIj57e2l0ZW0uZGF0ZXRpbWUgfCBkYXRlOiAnc2hvcnQnfX08L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICA8bGk+CiAgICAgICAgICA8YSBocmVmPSIjIiAoY2xpY2spPSJsb2FkTWFpbHMoJ3RyYXNoJykiPjxpIGNsYXNzPSIgZmEgZmEtdHJhc2gtbyI+PC9pPiBUcmFzaDwvYT4KICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtOVUxMX0VYUFJ9IGZyb20gIkBhbmd1bGFyL2NvbXBpbGVyL3NyYy9vdXRwdXQvb3V0cHV0X2FzdCI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAnaW5ib3gnOgogICAgICAgIHVybCA9ICcuL21lL2luYm94JzsKICAgICAgICBicmVhazsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdXJsIGZyb20gInVybCI7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMudW5yZWFkTWFpbHMgPSB0aGlzLmluYm94VW5yZWFkKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSAnaW5ib3gnOgogICAgICAgIHVybCA9ICcuL21lL2luYm94JzsKICAgICAgICBicmVhazsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgdXJsIGZyb20gInVybCI7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudW5yZWFkTWFpbHMgPSB0aGlzLmluYm94VW5yZWFkKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzd2l0Y2hTZW50KCl7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0b2dnbGVVbnJlYWQoaXRlbTogYW55KSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICBzd2l0Y2hTZW50KCl7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -248,6 +248,7 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
