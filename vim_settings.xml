@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/read-filter.pipe.ts" timestamp="1507824273132">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="10" column="4" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="10" column="4" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/read-filter.pipe.ts" timestamp="1507988971580">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1507987537977">
         <mark key="'" line="233" column="0" />
