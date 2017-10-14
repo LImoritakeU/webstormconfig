@@ -46,11 +46,11 @@
       <file name="$USER_HOME$/ezcloud/ezmail/client/.gitignore" timestamp="1507128751634">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/data.service.ts" timestamp="1507993674222">
-        <mark key="[" line="26" column="31" />
-        <mark key="]" line="26" column="29" />
-        <mark key="." line="26" column="29" />
-        <mark key="^" line="26" column="29" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/data.service.ts" timestamp="1507994790377">
+        <mark key="[" line="39" column="37" />
+        <mark key="]" line="35" column="26" />
+        <mark key="." line="35" column="26" />
+        <mark key="^" line="35" column="26" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/type-filter.pipe.ts" timestamp="1507989158731">
         <mark key="[" line="7" column="28" />
@@ -189,7 +189,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdXJsIGZyb20gInVybCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bmV3IERhdGUoYS5kYXRldGltZSkuZ2V0VGltZSgpIA==</text>
@@ -201,31 +201,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHRkIGNsYXNzPSJ2aWV3LW1lc3NhZ2UgIHRleHQtcmlnaHQiICpuZ0lmPSJpZlRvZGF5KGl0ZW0uZGF0ZXRpbWUpIj57e2l0ZW0uZGF0ZXRpbWUgfCBkYXRlOiAnc2hvcnQnfX08L3RkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdXJsIGZyb20gInVybCI7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMudW5yZWFkTWFpbHMgPSB0aGlzLmluYm94VW5yZWFkKCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSAnaW5ib3gnOgogICAgICAgIHVybCA9ICcuL21lL2luYm94JzsKICAgICAgICBicmVhazsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgdXJsIGZyb20gInVybCI7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudW5yZWFkTWFpbHMgPSB0aGlzLmluYm94VW5yZWFkKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzd2l0Y2hTZW50KCl7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0b2dnbGVVbnJlYWQoaXRlbTogYW55KSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICBzd2l0Y2hTZW50KCl7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIOmHjeaWsOaVtOeQhgo=</text>
+        <text encoding="base64">ICB0b2dnbGVVbnJlYWQoaXRlbTogYW55KSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcmtBc1JlYWQK</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
