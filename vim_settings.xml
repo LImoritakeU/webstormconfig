@@ -9,17 +9,17 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1508078675366">
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1508341365476">
         <mark key="'" line="171" column="0" />
         <mark key="[" line="152" column="32" />
-        <mark key="]" line="152" column="31" />
-        <mark key="." line="152" column="31" />
-        <mark key="^" line="152" column="31" />
+        <mark key="]" line="152" column="58" />
+        <mark key="." line="152" column="58" />
+        <mark key="^" line="152" column="58" />
       </file>
       <file name="/fragment.js" timestamp="1507738324807">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/package.json" timestamp="1507982289527">
+      <file name="$USER_HOME$/ezcloud/ezmail/client/package.json" timestamp="1508339862278">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="6" column="56" />
         <mark key="^" line="6" column="56" />
@@ -63,18 +63,18 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" timestamp="1508078977209">
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" timestamp="1508341222497">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="3" column="1" />
+        <mark key="[" line="34" column="43" />
+        <mark key="]" line="34" column="48" />
+        <mark key="." line="34" column="48" />
+        <mark key="^" line="34" column="48" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" timestamp="1508078871829">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="64" column="1" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" timestamp="1508343089003">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/proxy.config.json" timestamp="1507218942231">
         <mark key="'" line="11" column="0" />
@@ -83,11 +83,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1508078858456">
-        <mark key="[" line="11" column="51" />
-        <mark key="]" line="12" column="1" />
-        <mark key="^" line="12" column="1" />
-        <mark key="." line="12" column="1" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1508343374473">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="64" column="51" />
+        <mark key="^" line="64" column="51" />
+        <mark key="." line="64" column="51" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" timestamp="1507987530258">
         <mark key="'" line="215" column="34" />
@@ -111,17 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="60" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="207" column="1" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
-      <jump line="229" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
-      <jump line="231" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
-      <jump line="224" column="44" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="215" column="34" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="14" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="70" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="59" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="44" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="32" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="28" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="234" column="16" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
@@ -142,8 +132,6 @@
       <jump line="50" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="61" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="71" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="35" column="30" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="37" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="42" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="46" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="51" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
@@ -166,7 +154,6 @@
       <jump line="9" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="16" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="21" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="26" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="34" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="38" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="40" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
@@ -187,12 +174,10 @@
       <jump line="43" column="2" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="45" column="16" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="35" column="2" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="34" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
       <jump line="27" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
       <jump line="23" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
       <jump line="20" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
       <jump line="15" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="11" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
       <jump line="8" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
@@ -211,34 +196,50 @@
       <jump line="99" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
       <jump line="97" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
+      <jump line="53" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
+      <jump line="52" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
+      <jump line="44" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
+      <jump line="26" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
+      <jump line="31" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
+      <jump line="35" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
+      <jump line="37" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
+      <jump line="60" column="7" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
+      <jump line="11" column="2" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
+      <jump line="34" column="114" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
+      <jump line="59" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
+      <jump line="53" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
+      <jump line="39" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
+      <jump line="43" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
+      <jump line="48" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
+      <jump line="52" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PGEgY2xhc3M9Im5wLWJ0biIgaHJlZj0iIyIgKGNsaWNrKT0iY3VyUGFnZSA9IGN1clBhZ2UgLSAxIj48aSBjbGFzcz0iZmEgZmEtYW5nbGUtbGVmdCAgcGFnaW5hdGlvbi1sZWZ0Ij48L2k+PC9hPg==</text>
       </register>
       <register name="/" type="4">
-        <text>readFilter</text>
+        <text>toggleAll</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8YSBjbGFzcz0ibnAtYnRuIiBocmVmPSIjIiAoY2xpY2spPSJwYWdlQ2hhbmdlKDEpIj48aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQgcGFnaW5hdGlvbi1yaWdodCI+PC9pPjwvYT4K</text>
+        <text encoding="base64">ICAgICAgdGhpcy51bnJlYWRNYWlscyA9IHRoaXMuaW5ib3hVbnJlYWQodGhpcy5tYWlscyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKChpbmRleCA+IHRoaXMuY3VyUGFnZSAqICh0aGlzLnBhZ2VTaXplIC0gMSkpICYmIChpbmRleCA8PSB0aGlzLmN1clBhZ2UgKiB0aGlzLnBhZ2VTaXplKSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtYXJrQXNSZWFkKCkgewogICAgLy8g5qiZ56S65bey6K6ACiAgICB0aGlzLm1haWxzLmZvckVhY2goaXRlbSA9PiB7CiAgICAgIGlmIChpdGVtLmNoZWNrZWQgPT09IHRydWUpIHsKICAgICAgICBpdGVtLnVucmVhZCA9IGZhbHNlOwogICAgICAgIGl0ZW0uY2hlY2tlZCA9IGZhbHNlOwogICAgICB9CiAgICB9KTsKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudW5yZWFkTWFpbHMgPSB0aGlzLmluYm94VW5yZWFkKHRoaXMubWFpbHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvdHI+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -257,9 +258,9 @@
       </register>
     </registers>
     <search>
-      <last-search>readFilter</last-search>
+      <last-search>toggleAll</last-search>
       <last-offset />
-      <last-pattern>readFilter</last-pattern>
+      <last-pattern>toggleAll</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -270,6 +271,7 @@
         <entry>load</entry>
         <entry>toggle</entry>
         <entry>readFilter</entry>
+        <entry>toggleAll</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
