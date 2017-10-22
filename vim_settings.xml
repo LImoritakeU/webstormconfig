@@ -30,11 +30,11 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/new-mail/new-mail.component.html" timestamp="1508651810605">
-        <mark key="[" line="32" column="73" />
-        <mark key="]" line="32" column="79" />
-        <mark key="^" line="32" column="79" />
-        <mark key="." line="32" column="79" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/new-mail/new-mail.component.html" timestamp="1508653281290">
+        <mark key="[" line="37" column="52" />
+        <mark key="]" line="42" column="9" />
+        <mark key="^" line="42" column="9" />
+        <mark key="." line="42" column="9" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/index.html" timestamp="1507121750199">
         <mark key="[" line="8" column="101" />
@@ -97,10 +97,11 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1508649069781">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1508653028961">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="37" column="4" />
+        <mark key="." line="37" column="4" />
+        <mark key="^" line="37" column="4" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" timestamp="1508345555177">
         <mark key="'" line="193" column="16" />
