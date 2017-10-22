@@ -66,11 +66,6 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/typings.d.ts" timestamp="1507215402002">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" timestamp="1508651426660">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="34" column="43" />
@@ -78,10 +73,11 @@
         <mark key="." line="34" column="48" />
         <mark key="^" line="34" column="48" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/new-mail/new-mail.component.ts" timestamp="1508659439703">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/new-mail/new-mail.component.ts" timestamp="1508661717994">
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="34" column="26" />
+        <mark key="." line="34" column="26" />
+        <mark key="^" line="34" column="26" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" timestamp="1508343089003">
         <mark key="'" line="50" column="0" />
@@ -233,7 +229,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJzZW5kIHRvIHJlbW90ZSIpOwo=</text>
+        <text encoding="base64">ICAgIGlmICh2YWx1ZS5yZWNpcGllbnRzICE9PSAnJykK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PGEgY2xhc3M9Im5wLWJ0biIgaHJlZj0iIyIgKGNsaWNrKT0iY3VyUGFnZSA9IGN1clBhZ2UgLSAxIj48aSBjbGFzcz0iZmEgZmEtYW5nbGUtbGVmdCAgcGFnaW5hdGlvbi1sZWZ0Ij48L2k+PC9hPg==</text>
@@ -245,31 +241,31 @@
         <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgPGxhYmVsIGNsYXNzPSJjb2wtbGctMiBjb250cm9sLWxhYmVsIj5DYzwvbGFiZWw+CiAgICAgICAgPGRpdiBjbGFzcz0iY29sLWxnLTEwIj4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBwbGFjZWhvbGRlcj0iIiBpZD0ibmV3Q2MiIGNsYXNzPSJmb3JtLWNvbnRyb2wiPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJzZW5kIHRvIHJlbW90ZSIpOwo=</text>
+        <text encoding="base64">ICAgIGlmICh2YWx1ZS5yZWNpcGllbnRzICE9PSAnJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIE9ic2VydmFibGUub2Y8YW55PigpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
+        <text encoding="base64">ICAgIGxldCB2YWx1ZSA9IHRoaXMubmV3TWFpbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pLmNhdGNoKGVyciA9PiB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIE9ic2VydmFibGUub2Y8YW55PigpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZW5kKG1haWw6ICkK</text>
+        <text encoding="base64">ICAgICAobWFpbC5yZWNpcGllbnRzICE9PSAiIikgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJzZW5kIHRvIHJlbW90ZSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPCEtLTxhcHAtbmV3LW1haWw+PC9hcHAtbmV3LW1haWw+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIE9ic2VydmFibGUub2Y8YW55PigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPCEtLTxhcHAtaW5ib3ggW21haWxzXT0ibWFpbHMiIChtYXJrQXNSZWFkKT0ibWFya0FzUmVhZCgpIiA+PC9hcHAtaW5ib3g+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
