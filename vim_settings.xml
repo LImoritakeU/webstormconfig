@@ -9,7 +9,7 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508649401751">
+      <file name="/Dummy.txt" timestamp="1508659481200">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1508651302738">
@@ -30,12 +30,12 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/new-mail/new-mail.component.html" timestamp="1508654551823">
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/new-mail/new-mail.component.html" timestamp="1508659470151">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="45" />
-        <mark key="]" line="32" column="110" />
-        <mark key="^" line="32" column="110" />
-        <mark key="." line="32" column="110" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/index.html" timestamp="1507121750199">
         <mark key="[" line="8" column="101" />
@@ -55,10 +55,10 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/data.service.ts" timestamp="1508657092447">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/data.service.ts" timestamp="1508659255347">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/type-filter.pipe.ts" timestamp="1507989158731">
         <mark key="[" line="7" column="28" />
@@ -78,10 +78,10 @@
         <mark key="." line="34" column="48" />
         <mark key="^" line="34" column="48" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/new-mail/new-mail.component.ts" timestamp="1508656738450">
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/new-mail/new-mail.component.ts" timestamp="1508659439703">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" timestamp="1508343089003">
         <mark key="'" line="50" column="0" />
@@ -233,7 +233,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzZW5kKG1haWw6ICkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJzZW5kIHRvIHJlbW90ZSIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PGEgY2xhc3M9Im5wLWJ0biIgaHJlZj0iIyIgKGNsaWNrKT0iY3VyUGFnZSA9IGN1clBhZ2UgLSAxIj48aSBjbGFzcz0iZmEgZmEtYW5nbGUtbGVmdCAgcGFnaW5hdGlvbi1sZWZ0Ij48L2k+PC9hPg==</text>
@@ -245,31 +245,31 @@
         <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgPGxhYmVsIGNsYXNzPSJjb2wtbGctMiBjb250cm9sLWxhYmVsIj5DYzwvbGFiZWw+CiAgICAgICAgPGRpdiBjbGFzcz0iY29sLWxnLTEwIj4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBwbGFjZWhvbGRlcj0iIiBpZD0ibmV3Q2MiIGNsYXNzPSJmb3JtLWNvbnRyb2wiPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZW5kKG1haWw6ICkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJzZW5kIHRvIHJlbW90ZSIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIE9ic2VydmFibGUub2Y8YW55PigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPCEtLTxhcHAtbmV3LW1haWw+PC9hcHAtbmV3LW1haWw+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPCEtLTxhcHAtaW5ib3ggW21haWxzXT0ibWFpbHMiIChtYXJrQXNSZWFkKT0ibWFya0FzUmVhZCgpIiA+PC9hcHAtaW5ib3g+LS0+Cg==</text>
+        <text encoding="base64">ICAgIH0pLmNhdGNoKGVyciA9PiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtST1VURVJfUFJPVklERVJTfSBmcm9tICJAYW5ndWxhci9yb3V0ZXIvc3JjL3JvdXRlcl9tb2R1bGUiOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIE9ic2VydmFibGUub2Y8YW55PigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHJvdXRlcgo=</text>
+        <text encoding="base64">ICBzZW5kKG1haWw6ICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtST1VURVJfUFJPVklERVJTfSBmcm9tICdAYW5ndWxhci9yb3V0ZXInOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgPCEtLTxhcHAtbmV3LW1haWw+PC9hcHAtbmV3LW1haWw+LS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgPCEtLU1vZGFsCg==</text>
+        <text encoding="base64">ICAgICAgPCEtLTxhcHAtaW5ib3ggW21haWxzXT0ibWFpbHMiIChtYXJrQXNSZWFkKT0ibWFya0FzUmVhZCgpIiA+PC9hcHAtaW5ib3g+LS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -333,6 +333,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
