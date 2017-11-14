@@ -55,11 +55,11 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/data.service.ts" timestamp="1510673598205">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="11" column="47" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/data.service.ts" timestamp="1510675164072">
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="12" column="47" />
+        <mark key="^" line="12" column="47" />
+        <mark key="." line="12" column="47" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/type-filter.pipe.ts" timestamp="1507989158731">
         <mark key="[" line="7" column="28" />
@@ -79,6 +79,12 @@
         <mark key="]" line="35" column="32" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="26" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/environments/environment.ts" timestamp="1510675057176">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="7" column="59" />
+        <mark key="^" line="7" column="59" />
+        <mark key="." line="7" column="59" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" timestamp="1508343089003">
         <mark key="'" line="50" column="0" />
@@ -302,8 +308,9 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz4+</entry>
-        <entry>W</entry>
         <entry>1</entry>
+        <entry>W</entry>
+        <entry>g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
