@@ -58,6 +58,12 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/typescript/src/models/User.ts" timestamp="1511260479759">
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="26" column="76" />
+        <mark key="^" line="26" column="76" />
+        <mark key="." line="26" column="76" />
+      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1508653028961">
         <mark key="[" line="37" column="5" />
         <mark key="]" line="37" column="4" />
@@ -72,6 +78,18 @@
         <mark key="]" line="6" column="56" />
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/typescript/package.json" timestamp="1511259583187">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/typescript/src/interfaces/User.ts" timestamp="1511259778572">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/index.html" timestamp="1507121750199">
         <mark key="[" line="8" column="101" />
@@ -104,11 +122,17 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" timestamp="1508343089003">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/workspace/typescript/src/server.ts" timestamp="1511259030496">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/typescript/build/server.js" timestamp="1511259002772">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/proxy.config.json" timestamp="1507218942231">
         <mark key="'" line="11" column="0" />
@@ -123,13 +147,11 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" timestamp="1508345555177">
-        <mark key="'" line="193" column="16" />
-        <mark key="[" line="215" column="39" />
-        <mark key="]" line="215" column="37" />
-        <mark key="." line="215" column="37" />
-        <mark key="^" line="215" column="37" />
-        <mark key="n" line="215" column="34" />
+      <file name="$USER_HOME$/workspace/typescript/tsconfig.json" timestamp="1511258249493">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="15" column="10" />
+        <mark key="^" line="15" column="10" />
+        <mark key="." line="15" column="10" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/length-limit.pipe.ts" timestamp="1508061662201">
         <mark key="[" line="7" column="40" />
@@ -145,18 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="5" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
-      <jump line="248" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
-      <jump line="246" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
-      <jump line="216" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
-      <jump line="171" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
-      <jump line="92" column="4" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="91" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="82" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="75" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="2" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="9" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="16" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="21" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="34" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
@@ -245,13 +255,25 @@
       <jump line="42" column="9" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/new-mail/new-mail.component.html" />
       <jump line="35" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/new-mail/new-mail.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/new-mail/new-mail.component.html" />
+      <jump line="49" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
+      <jump line="54" column="2" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
+      <jump line="50" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFyIHVzZXIgPSB7IGZpcnN0bmFtZTogIkphbmUiLCBsYXN0bmFtZTogIlVzZXIifTsK</text>
+        <text encoding="base64">ICAgICJkZXYiOiAic3VwZXJ2aXNvciAtdyBidWlsZCAuL2J1aWxkL3NlcnZlci5qcyIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'token 98d3af51-9894-4931-b060-0dcd82da685e'</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>modal-content</text>
@@ -260,31 +282,31 @@
         <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgPGxhYmVsIGNsYXNzPSJjb2wtbGctMiBjb250cm9sLWxhYmVsIj5DYzwvbGFiZWw+CiAgICAgICAgPGRpdiBjbGFzcz0iY29sLWxnLTEwIj4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBwbGFjZWhvbGRlcj0iIiBpZD0ibmV3Q2MiIGNsYXNzPSJmb3JtLWNvbnRyb2wiPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIHVzZXIgPSB7IGZpcnN0bmFtZTogIkphbmUiLCBsYXN0bmFtZTogIlVzZXIifTsK</text>
+        <text encoding="base64">ICAgICJkZXYiOiAic3VwZXJ2aXNvciAtdyBidWlsZCAuL2J1aWxkL3NlcnZlci5qcyIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh2YWx1ZS5yZWNpcGllbnRzICE9PSAnJykK</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCB2YWx1ZSA9IHRoaXMubmV3TWFpbDsK</text>
+        <text encoding="base64">ICAgICJkZXYiOiAic3VwZXJ2aXNvciAtdyBidWlsZCAuL2J1aWxkL3NlcnZlci5qcyIsCiAgICAiYnVpbGQiOiAidHNjIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vICJlbWl0RGVjb3JhdG9yTWV0YWRhdGEiOiB0cnVlLCAgICAgICAgIC8qIEVuYWJsZXMgZXhwZXJpbWVudGFsIHN1cHBvcnQgZm9yIGVtaXR0aW5nIHR5cGUgbWV0YWRhdGEgZm9yIGRlY29yYXRvcnMuICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAobWFpbC5yZWNpcGllbnRzICE9PSAiIikgewo=</text>
+        <text encoding="base64">ICAgIC8vICJwcmVzZXJ2ZVN5bWxpbmtzIjogdHJ1ZSwgICAgICAgICAgICAgIC8qIERvIG5vdCByZXNvbHZlIHRoZSByZWFsIHBhdGggb2Ygc3ltbGlua3MuICovCgogICAgLyogU291cmNlIE1hcCBPcHRpb25zICovCiAgICAvLyAic291cmNlUm9vdCI6ICIuLyIsICAgICAgICAgICAgICAgICAgICAvKiBTcGVjaWZ5IHRoZSBsb2NhdGlvbiB3aGVyZSBkZWJ1Z2dlciBzaG91bGQgbG9jYXRlIFR5cGVTY3JpcHQgZmlsZXMgaW5zdGVhZCBvZiBzb3VyY2UgbG9jYXRpb25zLiAqLwogICAgLy8gIm1hcFJvb3QiOiAiLi8iLCAgICAgICAgICAgICAgICAgICAgICAgLyogU3BlY2lmeSB0aGUgbG9jYXRpb24gd2hlcmUgZGVidWdnZXIgc2hvdWxkIGxvY2F0ZSBtYXAgZmlsZXMgaW5zdGVhZCBvZiBnZW5lcmF0ZWQgbG9jYXRpb25zLiAqLwogICAgLy8gImlubGluZVNvdXJjZU1hcCI6IHRydWUsICAgICAgICAgICAgICAgLyogRW1pdCBhIHNpbmdsZSBmaWxlIHdpdGggc291cmNlIG1hcHMgaW5zdGVhZCBvZiBoYXZpbmcgYSBzZXBhcmF0ZSBmaWxlLiAqLwogICAgLy8gImlubGluZVNvdXJjZXMiOiB0cnVlLCAgICAgICAgICAgICAgICAgLyogRW1pdCB0aGUgc291cmNlIGFsb25nc2lkZSB0aGUgc291cmNlbWFwcyB3aXRoaW4gYSBzaW5nbGUgZmlsZTsgcmVxdWlyZXMgJy0taW5saW5lU291cmNlTWFwJyBvciAnLS1zb3VyY2VNYXAnIHRvIGJlIHNldC4gKi8KCiAgICAvKiBFeHBlcmltZW50YWwgT3B0aW9ucyAqLwogICAgLy8gImV4cGVyaW1lbnRhbERlY29yYXRvcnMiOiB0cnVlLCAgICAgICAgLyogRW5hYmxlcyBleHBlcmltZW50YWwgc3VwcG9ydCBmb3IgRVM3IGRlY29yYXRvcnMuICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJzZW5kIHRvIHJlbW90ZSIpOwo=</text>
+        <text encoding="base64">ICAgIC8vICJub0ZhbGx0aHJvdWdoQ2FzZXNJblN3aXRjaCI6IHRydWUsICAgIC8qIFJlcG9ydCBlcnJvcnMgZm9yIGZhbGx0aHJvdWdoIGNhc2VzIGluIHN3aXRjaCBzdGF0ZW1lbnQuICovCgogICAgLyogTW9kdWxlIFJlc29sdXRpb24gT3B0aW9ucyAqLwogICAgLy8gIm1vZHVsZVJlc29sdXRpb24iOiAibm9kZSIsICAgICAgICAgICAgLyogU3BlY2lmeSBtb2R1bGUgcmVzb2x1dGlvbiBzdHJhdGVneTogJ25vZGUnIChOb2RlLmpzKSBvciAnY2xhc3NpYycgKFR5cGVTY3JpcHQgcHJlLTEuNikuICovCiAgICAvLyAiYmFzZVVybCI6ICIuLyIsICAgICAgICAgICAgICAgICAgICAgICAvKiBCYXNlIGRpcmVjdG9yeSB0byByZXNvbHZlIG5vbi1hYnNvbHV0ZSBtb2R1bGUgbmFtZXMuICovCiAgICAvLyAicGF0aHMiOiB7fSwgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiBBIHNlcmllcyBvZiBlbnRyaWVzIHdoaWNoIHJlLW1hcCBpbXBvcnRzIHRvIGxvb2t1cCBsb2NhdGlvbnMgcmVsYXRpdmUgdG8gdGhlICdiYXNlVXJsJy4gKi8KICAgIC8vICJyb290RGlycyI6IFtdLCAgICAgICAgICAgICAgICAgICAgICAgIC8qIExpc3Qgb2Ygcm9vdCBmb2xkZXJzIHdob3NlIGNvbWJpbmVkIGNvbnRlbnQgcmVwcmVzZW50cyB0aGUgc3RydWN0dXJlIG9mIHRoZSBwcm9qZWN0IGF0IHJ1bnRpbWUuICovCiAgICAvLyAidHlwZVJvb3RzIjogW10sICAgICAgICAgICAgICAgICAgICAgICAvKiBMaXN0IG9mIGZvbGRlcnMgdG8gaW5jbHVkZSB0eXBlIGRlZmluaXRpb25zIGZyb20uICovCiAgICAvLyAidHlwZXMiOiBbXSwgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiBUeXBlIGRlY2xhcmF0aW9uIGZpbGVzIHRvIGJlIGluY2x1ZGVkIGluIGNvbXBpbGF0aW9uLiAqLwogICAgLy8gImFsbG93U3ludGhldGljRGVmYXVsdEltcG9ydHMiOiB0cnVlLCAgLyogQWxsb3cgZGVmYXVsdCBpbXBvcnRzIGZyb20gbW9kdWxlcyB3aXRoIG5vIGRlZmF1bHQgZXhwb3J0LiBUaGlzIGRvZXMgbm90IGFmZmVjdCBjb2RlIGVtaXQsIGp1c3QgdHlwZWNoZWNraW5nLiAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -358,6 +380,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
