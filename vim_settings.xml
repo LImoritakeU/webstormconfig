@@ -64,11 +64,24 @@
         <mark key="^" line="26" column="76" />
         <mark key="." line="26" column="76" />
       </file>
+      <file name="$USER_HOME$/workspace/publish/css/styles.css" timestamp="1512123514754">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="21" column="27" />
+        <mark key="^" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1508653028961">
         <mark key="[" line="37" column="5" />
         <mark key="]" line="37" column="4" />
         <mark key="." line="37" column="4" />
         <mark key="^" line="37" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/publish/realtime.html" timestamp="1512121438912">
+        <mark key="'" line="998" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="5" column="60" />
+        <mark key="." line="6" column="6" />
       </file>
       <file name="/Dummy.txt" timestamp="1508659481200">
         <mark key="[" line="0" column="0" />
@@ -167,8 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="21" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="34" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="38" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
       <jump line="40" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
@@ -267,10 +278,12 @@
       <jump line="28" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
+      <jump line="5" column="6" filename="$USER_HOME$/workspace/publish/realtime.html" />
+      <jump line="998" column="0" filename="$USER_HOME$/workspace/publish/realtime.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJkZXYiOiAic3VwZXJ2aXNvciAtdyBidWlsZCAuL2J1aWxkL3NlcnZlci5qcyIsCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -282,31 +295,31 @@
         <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgPGxhYmVsIGNsYXNzPSJjb2wtbGctMiBjb250cm9sLWxhYmVsIj5DYzwvbGFiZWw+CiAgICAgICAgPGRpdiBjbGFzcz0iY29sLWxnLTEwIj4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBwbGFjZWhvbGRlcj0iIiBpZD0ibmV3Q2MiIGNsYXNzPSJmb3JtLWNvbnRyb2wiPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJkZXYiOiAic3VwZXJ2aXNvciAtdyBidWlsZCAuL2J1aWxkL3NlcnZlci5qcyIsCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbHVtbi1zcGFuOiBhbGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAic2NyaXB0cyI6IHsK</text>
+        <text encoding="base64">aDEgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbHVtbi1jb3VudDogMzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJkZXYiOiAic3VwZXJ2aXNvciAtdyBidWlsZCAuL2J1aWxkL3NlcnZlci5qcyIsCiAgICAiYnVpbGQiOiAidHNjIiwK</text>
+        <text encoding="base64">Lyog44KP44Ga44GL44Gr44GZ44GN6ZaT44GM56m644GP44Gu44Gn5bem5Y+z44Gr44KC44Gh44KH44Gj44Go44Gg44GR5ouh5by1ICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+        <text encoding="base64">ICAgICJkZXYiOiAic3VwZXJ2aXNvciAtdyBidWlsZCAuL2J1aWxkL3NlcnZlci5qcyIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICJlbWl0RGVjb3JhdG9yTWV0YWRhdGEiOiB0cnVlLCAgICAgICAgIC8qIEVuYWJsZXMgZXhwZXJpbWVudGFsIHN1cHBvcnQgZm9yIGVtaXR0aW5nIHR5cGUgbWV0YWRhdGEgZm9yIGRlY29yYXRvcnMuICovCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICJwcmVzZXJ2ZVN5bWxpbmtzIjogdHJ1ZSwgICAgICAgICAgICAgIC8qIERvIG5vdCByZXNvbHZlIHRoZSByZWFsIHBhdGggb2Ygc3ltbGlua3MuICovCgogICAgLyogU291cmNlIE1hcCBPcHRpb25zICovCiAgICAvLyAic291cmNlUm9vdCI6ICIuLyIsICAgICAgICAgICAgICAgICAgICAvKiBTcGVjaWZ5IHRoZSBsb2NhdGlvbiB3aGVyZSBkZWJ1Z2dlciBzaG91bGQgbG9jYXRlIFR5cGVTY3JpcHQgZmlsZXMgaW5zdGVhZCBvZiBzb3VyY2UgbG9jYXRpb25zLiAqLwogICAgLy8gIm1hcFJvb3QiOiAiLi8iLCAgICAgICAgICAgICAgICAgICAgICAgLyogU3BlY2lmeSB0aGUgbG9jYXRpb24gd2hlcmUgZGVidWdnZXIgc2hvdWxkIGxvY2F0ZSBtYXAgZmlsZXMgaW5zdGVhZCBvZiBnZW5lcmF0ZWQgbG9jYXRpb25zLiAqLwogICAgLy8gImlubGluZVNvdXJjZU1hcCI6IHRydWUsICAgICAgICAgICAgICAgLyogRW1pdCBhIHNpbmdsZSBmaWxlIHdpdGggc291cmNlIG1hcHMgaW5zdGVhZCBvZiBoYXZpbmcgYSBzZXBhcmF0ZSBmaWxlLiAqLwogICAgLy8gImlubGluZVNvdXJjZXMiOiB0cnVlLCAgICAgICAgICAgICAgICAgLyogRW1pdCB0aGUgc291cmNlIGFsb25nc2lkZSB0aGUgc291cmNlbWFwcyB3aXRoaW4gYSBzaW5nbGUgZmlsZTsgcmVxdWlyZXMgJy0taW5saW5lU291cmNlTWFwJyBvciAnLS1zb3VyY2VNYXAnIHRvIGJlIHNldC4gKi8KCiAgICAvKiBFeHBlcmltZW50YWwgT3B0aW9ucyAqLwogICAgLy8gImV4cGVyaW1lbnRhbERlY29yYXRvcnMiOiB0cnVlLCAgICAgICAgLyogRW5hYmxlcyBleHBlcmltZW50YWwgc3VwcG9ydCBmb3IgRVM3IGRlY29yYXRvcnMuICovCg==</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICJub0ZhbGx0aHJvdWdoQ2FzZXNJblN3aXRjaCI6IHRydWUsICAgIC8qIFJlcG9ydCBlcnJvcnMgZm9yIGZhbGx0aHJvdWdoIGNhc2VzIGluIHN3aXRjaCBzdGF0ZW1lbnQuICovCgogICAgLyogTW9kdWxlIFJlc29sdXRpb24gT3B0aW9ucyAqLwogICAgLy8gIm1vZHVsZVJlc29sdXRpb24iOiAibm9kZSIsICAgICAgICAgICAgLyogU3BlY2lmeSBtb2R1bGUgcmVzb2x1dGlvbiBzdHJhdGVneTogJ25vZGUnIChOb2RlLmpzKSBvciAnY2xhc3NpYycgKFR5cGVTY3JpcHQgcHJlLTEuNikuICovCiAgICAvLyAiYmFzZVVybCI6ICIuLyIsICAgICAgICAgICAgICAgICAgICAgICAvKiBCYXNlIGRpcmVjdG9yeSB0byByZXNvbHZlIG5vbi1hYnNvbHV0ZSBtb2R1bGUgbmFtZXMuICovCiAgICAvLyAicGF0aHMiOiB7fSwgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiBBIHNlcmllcyBvZiBlbnRyaWVzIHdoaWNoIHJlLW1hcCBpbXBvcnRzIHRvIGxvb2t1cCBsb2NhdGlvbnMgcmVsYXRpdmUgdG8gdGhlICdiYXNlVXJsJy4gKi8KICAgIC8vICJyb290RGlycyI6IFtdLCAgICAgICAgICAgICAgICAgICAgICAgIC8qIExpc3Qgb2Ygcm9vdCBmb2xkZXJzIHdob3NlIGNvbWJpbmVkIGNvbnRlbnQgcmVwcmVzZW50cyB0aGUgc3RydWN0dXJlIG9mIHRoZSBwcm9qZWN0IGF0IHJ1bnRpbWUuICovCiAgICAvLyAidHlwZVJvb3RzIjogW10sICAgICAgICAgICAgICAgICAgICAgICAvKiBMaXN0IG9mIGZvbGRlcnMgdG8gaW5jbHVkZSB0eXBlIGRlZmluaXRpb25zIGZyb20uICovCiAgICAvLyAidHlwZXMiOiBbXSwgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiBUeXBlIGRlY2xhcmF0aW9uIGZpbGVzIHRvIGJlIGluY2x1ZGVkIGluIGNvbXBpbGF0aW9uLiAqLwogICAgLy8gImFsbG93U3ludGhldGljRGVmYXVsdEltcG9ydHMiOiB0cnVlLCAgLyogQWxsb3cgZGVmYXVsdCBpbXBvcnRzIGZyb20gbW9kdWxlcyB3aXRoIG5vIGRlZmF1bHQgZXhwb3J0LiBUaGlzIGRvZXMgbm90IGFmZmVjdCBjb2RlIGVtaXQsIGp1c3QgdHlwZWNoZWNraW5nLiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -345,6 +358,7 @@
         <entry>g</entry>
         <entry>W</entry>
         <entry>wq</entry>
+        <entry encoding="base64">Pg==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
