@@ -122,6 +122,12 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/nodejs/server.js" timestamp="1512718675405">
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" timestamp="1508651426660">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="34" column="43" />
@@ -282,11 +288,11 @@
       <jump line="998" column="0" filename="$USER_HOME$/workspace/publish/realtime.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>modal-content</text>
