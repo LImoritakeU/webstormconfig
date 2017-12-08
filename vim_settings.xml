@@ -64,11 +64,23 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/.env" timestamp="1512731113018">
+        <mark key="[" line="1" column="62" />
+        <mark key="]" line="3" column="57" />
+        <mark key="^" line="3" column="57" />
+        <mark key="." line="3" column="57" />
+      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/environments/environment.ts" timestamp="1510675057176">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="7" column="59" />
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/server/config.js" timestamp="1512731133447">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+        <mark key="." line="18" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/typescript/greeter.html" timestamp="1511256575041">
         <mark key="[" line="7" column="0" />
@@ -81,6 +93,9 @@
         <mark key="]" line="26" column="76" />
         <mark key="^" line="26" column="76" />
         <mark key="." line="26" column="76" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/README.md" timestamp="1512730413609">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/publish/css/styles.css" timestamp="1512123514754">
         <mark key="[" line="24" column="0" />
@@ -355,11 +370,11 @@
       <jump line="25" column="9" filename="$USER_HOME$/workspace/node-crud/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bGV0IGRiCmxldCB1cmwgPSAnbW9uZ29kYjovL3Rlc3Q6dGVzdEBjbHVzdGVyMC1zaGFyZC0wMC0wMC0wZWNjYS5tb25nb2RiLm5ldDoyNzAxNyxjbHVzdGVyMC1zaGFyZC0wMC0wMS0wZWNjYS5tb25nb2RiLm5ldDoyNzAxNyxjbHVzdGVyMC1zaGFyZC0wMC0wMi0wZWNjYS5tb25nb2RiLm5ldDoyNzAxNy90ZXN0P3NzbD10cnVlJnJlcGxpY2FTZXQ9Q2x1c3RlcjAtc2hhcmQtMCZhdXRoU291cmNlPWFkbWluJwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>g:for329841@clust</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>modal-content</text>
