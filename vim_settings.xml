@@ -89,14 +89,14 @@
         <mark key="^" line="5" column="60" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512720714319">
+      <file name="/Dummy.txt" timestamp="1512724177981">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/nodejs/views/layout.ejs" timestamp="1512721149825">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="13" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="4" column="13" />
+      <file name="$USER_HOME$/workspace/nodejs/views/layout.ejs" timestamp="1512724161847">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="14" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/package.json" timestamp="1508339862278">
         <mark key="[" line="6" column="22" />
@@ -110,11 +110,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/nodejs/.gitignore" timestamp="1512719881035">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="1" column="5" />
+      <file name="$USER_HOME$/workspace/nodejs/.gitignore" timestamp="1512724109687">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/typescript/src/interfaces/User.ts" timestamp="1511259778572">
         <mark key="[" line="0" column="0" />
@@ -128,6 +128,12 @@
         <mark key="^" line="11" column="91" />
         <mark key="." line="11" column="91" />
       </file>
+      <file name="$USER_HOME$/workspace/nodejs/package.json" timestamp="1512724071388">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/receive-datetime.pipe.ts" timestamp="1507825065971">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="3" />
@@ -140,11 +146,11 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/nodejs/server.js" timestamp="1512721719294">
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="21" column="28" />
-        <mark key="^" line="21" column="28" />
-        <mark key="." line="21" column="28" />
+      <file name="$USER_HOME$/workspace/nodejs/server.js" timestamp="1512723434819">
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="24" column="38" />
+        <mark key="^" line="24" column="38" />
+        <mark key="." line="24" column="38" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" timestamp="1508651426660">
         <mark key="'" line="0" column="0" />
@@ -190,11 +196,11 @@
         <mark key="^" line="15" column="10" />
         <mark key="." line="15" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/nodejs/views/index.ejs" timestamp="1512721223003">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-        <mark key="^" line="3" column="21" />
+      <file name="$USER_HOME$/workspace/nodejs/views/index.ejs" timestamp="1512723752102">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="22" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/length-limit.pipe.ts" timestamp="1508061662201">
         <mark key="[" line="7" column="40" />
@@ -312,11 +318,11 @@
       <jump line="998" column="0" filename="$USER_HOME$/workspace/publish/realtime.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'mongodb://localhost/rateme'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vc2F2ZVVuaW5pdGlhbGl6ZWQ6IGZhbHNlLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>'mongodb://localhost/rateme'</text>
+        <text>g:for329841@clust</text>
       </register>
       <register name="/" type="4">
         <text>modal-content</text>
@@ -325,31 +331,31 @@
         <text encoding="base64">PGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIKICAgICAgICAgIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgdXNlci1zY2FsYWJsZT1ubywgaW5pdGlhbC1zY2FsZT0xLjAsIG1heGltdW0tc2NhbGU9MS4wLCBtaW5pbXVtLXNjYWxlPTEuMCI+CiAgICA8bWV0YSBodHRwLWVxdWl2PSJYLVVBLUNvbXBhdGlibGUiIGNvbnRlbnQ9ImllPWVkZ2UiPgogICAgPHRpdGxlPkRvY3VtZW50PC90aXRsZT4KPC9oZWFkPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bW9uZ29vc2UuY29ubmVjdCgnbW9uZ29kYjovL2xvY2FsaG9zdC9yYXRlbWUnKQo=</text>
+        <text encoding="base64">ICAgIC8vc2F2ZVVuaW5pdGlhbGl6ZWQ6IGZhbHNlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGgxPnRoaXMgaXMgYSB0ZXN0ITwvaDE+Cg==</text>
+        <text encoding="base64">ICAgIC8vcmVzYXZlOiBmYWxzZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9oZWFkPgo=</text>
+        <text encoding="base64">ICAgIHNlY3JldDogJ1RoaXNpc3Rlc3RzZWNyZXRLZXknLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDx0aXRsZT5Eb2N1bWVudDwvdGl0bGU+Cg==</text>
+        <text encoding="base64">ICAgIHNlY3JldDogJ1RoaXNpc3Rlc3RzZWNyZXRLZXknLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIGh0dHAtZXF1aXY9IlgtVUEtQ29tcGF0aWJsZSIgY29udGVudD0iaWU9ZWRnZSI+Cg==</text>
+        <text encoding="base64">bW9uZ29vc2UuY29ubmVjdCh1cmwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgdXNlci1zY2FsYWJsZT1ubywgaW5pdGlhbC1zY2FsZT0xLjAsIG1heGltdW0tc2NhbGU9MS4wLCBtaW5pbXVtLXNjYWxlPTEuMCI+Cg==</text>
+        <text encoding="base64">bW9uZ29vc2UuY29ubmVjdCgnbW9uZ29kYjovL2xvY2FsaG9zdC9yYXRlbWUnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0Igo=</text>
+        <text encoding="base64">PGgxPnRoaXMgaXMgYSB0ZXN0ITwvaDE+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIGNoYXJzZXQ9IlVURi04Ij4K</text>
+        <text encoding="base64">PC9oZWFkPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGhlYWQ+Cg==</text>
+        <text encoding="base64">ICAgIDx0aXRsZT5Eb2N1bWVudDwvdGl0bGU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
