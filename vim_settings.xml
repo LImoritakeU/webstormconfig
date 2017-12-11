@@ -9,102 +9,6 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1507738324807">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1511256832143">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/node-crud/routes/mongo.js" timestamp="1512727910598">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/typescript/greet.ts" timestamp="1511257046214">
-        <mark key="[" line="15" column="43" />
-        <mark key="]" line="15" column="43" />
-        <mark key="." line="15" column="43" />
-        <mark key="^" line="15" column="43" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/data.service.ts" timestamp="1510675164072">
-        <mark key="[" line="12" column="48" />
-        <mark key="]" line="12" column="47" />
-        <mark key="^" line="12" column="47" />
-        <mark key="." line="12" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/typescript/src/models/User.ts" timestamp="1511260479759">
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="26" column="76" />
-        <mark key="^" line="26" column="76" />
-        <mark key="." line="26" column="76" />
-      </file>
-      <file name="$USER_HOME$/workspace/node-crud/db.js" timestamp="1512726592017">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/nodejs/views/layout.ejs" timestamp="1512724161847">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="4" column="14" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/package.json" timestamp="1508339862278">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="56" />
-        <mark key="^" line="6" column="56" />
-        <mark key="." line="6" column="56" />
-      </file>
-      <file name="$USER_HOME$/workspace/typescript/package.json" timestamp="1511259583187">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/typescript/src/interfaces/User.ts" timestamp="1511259778572">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="21" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/nodejs/server.js" timestamp="1512723434819">
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="24" column="38" />
-        <mark key="^" line="24" column="38" />
-        <mark key="." line="24" column="38" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/server/.gitignore" timestamp="1512730065578">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/typescript/src/server.ts" timestamp="1511259030496">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/typescript/tsconfig.json" timestamp="1511258249493">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="15" column="10" />
-        <mark key="^" line="15" column="10" />
-        <mark key="." line="15" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/nodejs/views/index.ejs" timestamp="1512723752102">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/length-limit.pipe.ts" timestamp="1508061662201">
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="9" column="58" />
-        <mark key="." line="9" column="58" />
-        <mark key="^" line="9" column="58" />
-      </file>
       <file name="$USER_HOME$/workspace/nodejs/views/partials/header.ejs" timestamp="1512721065566">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="0" column="0" />
@@ -123,11 +27,35 @@
         <mark key="^" line="105" column="28" />
         <mark key="." line="105" column="28" />
       </file>
+      <file name="/fragment.js" timestamp="1507738324807">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1511256832143">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/node-crud/routes/mongo.js" timestamp="1512727910598">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/README.md" timestamp="1507272001666">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="23" column="26" />
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/typescript/greet.ts" timestamp="1511257046214">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="43" />
+        <mark key="." line="15" column="43" />
+        <mark key="^" line="15" column="43" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/data.service.ts" timestamp="1510675164072">
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="12" column="47" />
+        <mark key="^" line="12" column="47" />
+        <mark key="." line="12" column="47" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/.env" timestamp="1512733174099">
         <mark key="[" line="1" column="62" />
@@ -152,6 +80,18 @@
         <mark key="]" line="15" column="71" />
         <mark key="^" line="15" column="71" />
         <mark key="." line="15" column="71" />
+      </file>
+      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1512984694965">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/typescript/src/models/User.ts" timestamp="1511260479759">
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="26" column="76" />
+        <mark key="^" line="26" column="76" />
+        <mark key="." line="26" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/typescript/greeter.html" timestamp="1511256575041">
         <mark key="[" line="7" column="0" />
@@ -187,15 +127,44 @@
         <mark key="." line="29" column="24" />
         <mark key="^" line="29" column="24" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/server/models.js" timestamp="1512732168848" />
       <file name="/Dummy.txt" timestamp="1512724177981">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/node-crud/db.js" timestamp="1512726592017">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/nodejs/views/layout.ejs" timestamp="1512724161847">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/package.json" timestamp="1508339862278">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="56" />
+        <mark key="^" line="6" column="56" />
+        <mark key="." line="6" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/typescript/package.json" timestamp="1511259583187">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/nodejs/.gitignore" timestamp="1512724109687">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="2" column="4" />
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/typescript/src/interfaces/User.ts" timestamp="1511259778572">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/index.html" timestamp="1507121750199">
         <mark key="[" line="8" column="101" />
@@ -215,6 +184,12 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/nodejs/server.js" timestamp="1512723434819">
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="24" column="38" />
+        <mark key="^" line="24" column="38" />
+        <mark key="." line="24" column="38" />
+      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/type-filter.pipe.ts" timestamp="1507989158731">
         <mark key="[" line="7" column="28" />
         <mark key="]" line="7" column="27" />
@@ -226,6 +201,25 @@
         <mark key="]" line="35" column="32" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="26" />
+      </file>
+      <file name="$USER_HOME$/bluetech/book/content.html" timestamp="1512985821932">
+        <mark key="'" line="866" column="12" />
+        <mark key="[" line="867" column="0" />
+        <mark key="]" line="867" column="0" />
+        <mark key="^" line="14" column="8" />
+        <mark key="." line="867" column="0" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/server/.gitignore" timestamp="1512730065578">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/typescript/src/server.ts" timestamp="1511259030496">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/typescript/build/server.js" timestamp="1511259002772">
         <mark key="[" line="3" column="0" />
@@ -251,6 +245,24 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/typescript/tsconfig.json" timestamp="1511258249493">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="15" column="10" />
+        <mark key="^" line="15" column="10" />
+        <mark key="." line="15" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/nodejs/views/index.ejs" timestamp="1512723752102">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/length-limit.pipe.ts" timestamp="1508061662201">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="9" column="58" />
+        <mark key="." line="9" column="58" />
+        <mark key="^" line="9" column="58" />
+      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.module.ts" timestamp="1508650374528">
         <mark key="[" line="29" column="14" />
         <mark key="]" line="30" column="20" />
@@ -259,155 +271,155 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="40" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="49" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="65" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="54" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="73" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="78" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="83" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="87" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="95" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="84" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="12" column="2" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="41" column="2" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="58" column="26" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="48" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="13" column="2" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="43" column="2" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="45" column="16" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="35" column="2" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="27" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="23" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="20" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="15" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="8" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="69" column="99" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
-      <jump line="96" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
-      <jump line="94" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
-      <jump line="65" column="1" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
-      <jump line="64" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
-      <jump line="19" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
-      <jump line="102" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
-      <jump line="67" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
-      <jump line="66" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
-      <jump line="99" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
-      <jump line="97" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
-      <jump line="53" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="52" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="26" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="31" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="35" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="37" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="60" column="7" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="11" column="2" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="34" column="114" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="59" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="53" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="39" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="43" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="48" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="52" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.ts" />
-      <jump line="44" column="33" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" />
-      <jump line="215" column="34" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="270" column="12" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="302" column="17" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="307" column="1" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="288" column="58" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="242" column="37" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="246" column="49" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="255" column="23" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="268" column="14" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="273" column="23" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="293" column="12" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="298" column="1" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="393" column="23" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="416" column="10" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="81" column="1" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="89" column="1" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="193" column="16" filename="$USER_HOME$/ezcloud/ezmail/client/src/styles.css" />
-      <jump line="153" column="5" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
-      <jump line="151" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
-      <jump line="119" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
-      <jump line="106" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
-      <jump line="12" column="29" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/new-mail/new-mail.component.html" />
-      <jump line="74" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
-      <jump line="63" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" />
-      <jump line="22" column="26" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
-      <jump line="21" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
-      <jump line="3" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/inbox/inbox.component.html" />
-      <jump line="42" column="9" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/new-mail/new-mail.component.html" />
-      <jump line="35" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/new-mail/new-mail.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/ezcloud/ezmail/client/src/app/new-mail/new-mail.component.html" />
-      <jump line="49" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
-      <jump line="43" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
-      <jump line="27" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
-      <jump line="54" column="2" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
-      <jump line="50" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
-      <jump line="44" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/typescript/tsconfig.json" />
-      <jump line="5" column="6" filename="$USER_HOME$/workspace/publish/realtime.html" />
-      <jump line="998" column="0" filename="$USER_HOME$/workspace/publish/realtime.html" />
-      <jump line="25" column="9" filename="$USER_HOME$/workspace/node-crud/app.js" />
+      <jump line="1009" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="1001" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="979" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="963" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="960" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="939" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="932" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="923" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="913" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="907" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="892" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="862" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="856" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="842" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="836" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="828" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="825" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="819" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="813" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="806" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="799" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="792" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="785" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="775" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="765" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="741" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="649" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="647" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="508" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="497" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="482" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="474" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="468" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="459" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="450" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="425" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="420" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="417" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="406" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="400" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="383" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="376" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="362" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="346" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="338" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="336" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="334" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="324" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="307" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="300" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="286" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="277" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="266" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="250" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="233" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="227" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="222" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="219" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="208" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="200" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="198" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="196" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="169" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="161" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="116" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="97" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="67" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="56" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="45" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="2917" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="5" column="60" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="1207" column="70" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="264" column="47" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="38" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="39" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="44" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="75" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="76" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="77" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="79" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="81" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="83" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="89" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="91" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="93" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="95" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="109" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="111" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="113" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="117" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="122" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="135" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="141" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="142" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="144" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="3470" column="33" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="927" column="11" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="40" column="88" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="866" column="12" filename="$USER_HOME$/bluetech/book/content.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cD7igIs8L3A+Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>modal-content</text>
+        <text>設計方針</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIKICAgICAgICAgIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgdXNlci1zY2FsYWJsZT1ubywgaW5pdGlhbC1zY2FsZT0xLjAsIG1heGltdW0tc2NhbGU9MS4wLCBtaW5pbXVtLXNjYWxlPTEuMCI+CiAgICA8bWV0YSBodHRwLWVxdWl2PSJYLVVBLUNvbXBhdGlibGUiIGNvbnRlbnQ9ImllPWVkZ2UiPgogICAgPHRpdGxlPkRvY3VtZW50PC90aXRsZT4KPC9oZWFkPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cD7igIs8L3A+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cD7igIs8L3A+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwLnVzZSgnL2Fzc2V0cycsIGV4cHJlc3Muc3RhdGljKF9fZGlybmFtZSArICcvcHVibGljJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8cD7igIs8L3A+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gc3RhdGljIHBhdGgK</text>
+        <text encoding="base64">ICAgICAgICA8cD7igIs8L3A+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gc3RhdGljIHBhdGgK</text>
+        <text encoding="base64">ICAgICAgICA8cD7igIs8L3A+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cD7igIs8L3A+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly99KTsK</text>
+        <text encoding="base64">ICAgICAgICA8cD7igIs8L3A+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgcmVzLmpzb24oeyBmaXJzdG5hbWU6ICdqb2huJywgbGFzdG5hbWU6ICdjZW5hJywgUXN0cjogcmVxLnF1ZXJ5LnFzdHIgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cD7igIs8L3A+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9hcHAuZ2V0KCcvYXBpLycsIChyZXEsIHJlcyk9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cD7igIs8L3A+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>modal-content</last-search>
+      <last-search>設計方針</last-search>
       <last-offset />
-      <last-pattern>modal-content</last-pattern>
+      <last-pattern>設計方針</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -428,6 +440,11 @@
         <entry>btn</entry>
         <entry>modal</entry>
         <entry>modal-content</entry>
+        <entry>toc</entry>
+        <entry>TOC</entry>
+        <entry>Kafka Manager</entry>
+        <entry encoding="base64">PHA+PA==</entry>
+        <entry>設計方針</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
@@ -439,6 +456,7 @@
         <entry>Wq</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry encoding="base64">MSwkcy88cD48L3A+Ly9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
