@@ -81,9 +81,9 @@
         <mark key="^" line="15" column="71" />
         <mark key="." line="15" column="71" />
       </file>
-      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1512987110115">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="32" />
+      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1512989915034">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="15" column="0" />
         <mark key="^" line="14" column="32" />
         <mark key="." line="14" column="32" />
       </file>
@@ -374,7 +374,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8cD7igIs8L3A+Cg==</text>
+        <text encoding="base64">aDEgewogICAgY29sb3I6ICNlZTNlODA7Cn0KCnAgewogICAgYmFja2dyb3VuZC1jb2xvcjogYmlzcXVlOwogICAgYm9yZGVyOiAzcHggc29saWQgZ3JlZW47Cn0KCmhyIHsKICAgIGJvcmRlcjogM3B4IHNvbGlkIHJlZDsKfQoKcHJlIHsKICAgIGJvcmRlcjogMnB4IHNvbGlkIGRvZGdlcmJsdWU7Cn0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -382,8 +382,8 @@
       <register name="/" type="4">
         <text>應用案例</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIKICAgICAgICAgIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgdXNlci1zY2FsYWJsZT1ubywgaW5pdGlhbC1zY2FsZT0xLjAsIG1heGltdW0tc2NhbGU9MS4wLCBtaW5pbXVtLXNjYWxlPTEuMCI+CiAgICA8bWV0YSBodHRwLWVxdWl2PSJYLVVBLUNvbXBhdGlibGUiIGNvbnRlbnQ9ImllPWVkZ2UiPgogICAgPHRpdGxlPkRvY3VtZW50PC90aXRsZT4KPC9oZWFkPg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">aDEgewogICAgY29sb3I6ICNlZTNlODA7Cn0KCnAgewogICAgYmFja2dyb3VuZC1jb2xvcjogYmlzcXVlOwogICAgYm9yZGVyOiAzcHggc29saWQgZ3JlZW47Cn0KCmhyIHsKICAgIGJvcmRlcjogM3B4IHNvbGlkIHJlZDsKfQoKcHJlIHsKICAgIGJvcmRlcjogMnB4IHNvbGlkIGRvZGdlcmJsdWU7Cn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8cD7igIs8L3A+Cg==</text>
