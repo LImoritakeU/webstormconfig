@@ -9,6 +9,12 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/bluetech/book/TODO.md" timestamp="1513054560945">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/nodejs/views/partials/header.ejs" timestamp="1512721065566">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="0" column="0" />
@@ -81,11 +87,12 @@
         <mark key="^" line="15" column="71" />
         <mark key="." line="15" column="71" />
       </file>
-      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1513052498798">
-        <mark key="[" line="47" column="32" />
-        <mark key="]" line="47" column="35" />
-        <mark key="." line="47" column="35" />
-        <mark key="^" line="47" column="35" />
+      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1513055240234">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="60" column="16" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/typescript/src/models/User.ts" timestamp="1511260479759">
         <mark key="[" line="24" column="2" />
@@ -270,12 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="979" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="963" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="960" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="939" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="932" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="923" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="913" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="907" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="892" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
@@ -370,10 +371,16 @@
       <jump line="37" column="15" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="40" column="35" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="201" column="18" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="5" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="32" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="26" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="20" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="6" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvcGFwZXItY3NzLzAuMy4wL3BhcGVyLmNzcyI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -385,31 +392,31 @@
         <text encoding="base64">aDEgewogICAgY29sb3I6ICNlZTNlODA7Cn0KCnAgewogICAgYmFja2dyb3VuZC1jb2xvcjogYmlzcXVlOwogICAgYm9yZGVyOiAzcHggc29saWQgZ3JlZW47Cn0KCmhyIHsKICAgIGJvcmRlcjogM3B4IHNvbGlkIHJlZDsKfQoKcHJlIHsKICAgIGJvcmRlcjogMnB4IHNvbGlkIGRvZGdlcmJsdWU7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvcGFwZXItY3NzLzAuMy4wL3BhcGVyLmNzcyI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGNvdW50ZXItcmVzZXQ6IGNoYXB0ZXJudW07Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Ym9keSB7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRhYmxlIHsKICAgICAgICBwYWdlLWJyZWFrLWFmdGVyOiBhdm9pZDsKICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMW1tOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qQjUgU0laRSovCg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50OiBjb3VudGVyKHBhZ2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBib3R0b20tbGVmdCB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
