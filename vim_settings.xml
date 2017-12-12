@@ -87,12 +87,12 @@
         <mark key="^" line="15" column="71" />
         <mark key="." line="15" column="71" />
       </file>
-      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1513060077375">
+      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1513061374644">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-        <mark key="^" line="3" column="8" />
+        <mark key="[" line="65" column="16" />
+        <mark key="]" line="65" column="13" />
+        <mark key="." line="65" column="13" />
+        <mark key="^" line="65" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/typescript/src/models/User.ts" timestamp="1511260479759">
         <mark key="[" line="24" column="2" />
@@ -209,11 +209,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="$USER_HOME$/bluetech/book/content.html" timestamp="1513056718314">
-        <mark key="[" line="539" column="24" />
-        <mark key="]" line="2265" column="32" />
-        <mark key="." line="2265" column="32" />
-        <mark key="^" line="2265" column="32" />
+      <file name="$USER_HOME$/bluetech/book/content.html" timestamp="1513061654386">
+        <mark key="[" line="2893" column="16" />
+        <mark key="]" line="2894" column="11" />
+        <mark key="." line="2894" column="11" />
+        <mark key="^" line="2894" column="11" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/server/.gitignore" timestamp="1512730065578">
         <mark key="[" line="0" column="0" />
@@ -380,7 +380,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGJvcmRlcjogMnB4IGRhc2hlZCBkb2RnZXJibHVlOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -392,31 +392,31 @@
         <text encoding="base64">aDEgewogICAgY29sb3I6ICNlZTNlODA7Cn0KCnAgewogICAgYmFja2dyb3VuZC1jb2xvcjogYmlzcXVlOwogICAgYm9yZGVyOiAzcHggc29saWQgZ3JlZW47Cn0KCmhyIHsKICAgIGJvcmRlcjogM3B4IHNvbGlkIHJlZDsKfQoKcHJlIHsKICAgIGJvcmRlcjogMnB4IHNvbGlkIGRvZGdlcmJsdWU7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGJvcmRlcjogMnB4IGRhc2hlZCBkb2RnZXJibHVlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAtM21tOwogICAgICAgIG1hcmdpbi1yaWdodDogLTNtbTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAtM21tOwogICAgICAgIG1hcmdpbi1yaWdodDogLTNtbTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAtM21tOwogICAgICAgIG1hcmdpbi1yaWdodDogLTNtbTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAtM21tOwogICAgICAgIG1hcmdpbi1yaWdodDogLTNtbTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAtM21tOwogICAgICAgIG1hcmdpbi1yaWdodDogLTNtbTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogOHB0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiBtb25vc3BhY2U7Cg==</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogOHB0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiBtb25vc3BhY2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
