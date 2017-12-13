@@ -9,30 +9,6 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/bluetech/book/TODO.md" timestamp="1513054560945">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/nodejs/views/partials/header.ejs" timestamp="1512721065566">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/node-crud/.gitignore" timestamp="1512725352379">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1508651302738">
-        <mark key="[" line="104" column="74" />
-        <mark key="]" line="105" column="28" />
-        <mark key="^" line="105" column="28" />
-        <mark key="." line="105" column="28" />
-      </file>
       <file name="/fragment.js" timestamp="1507738324807">
         <mark key="[" line="0" column="0" />
       </file>
@@ -44,12 +20,6 @@
         <mark key="]" line="7" column="20" />
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/README.md" timestamp="1507272001666">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="23" column="26" />
-        <mark key="^" line="23" column="26" />
-        <mark key="." line="23" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/typescript/greet.ts" timestamp="1511257046214">
         <mark key="[" line="15" column="43" />
@@ -63,36 +33,12 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/.env" timestamp="1512733174099">
-        <mark key="[" line="1" column="62" />
-        <mark key="]" line="3" column="57" />
-        <mark key="^" line="3" column="57" />
-        <mark key="." line="3" column="57" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/environments/environment.ts" timestamp="1510675057176">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="7" column="59" />
-        <mark key="^" line="7" column="59" />
-        <mark key="." line="7" column="59" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/server/config.js" timestamp="1512731133447">
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="18" column="38" />
-        <mark key="^" line="18" column="38" />
-        <mark key="." line="18" column="38" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/server/sample-email.json" timestamp="1512732902816">
-        <mark key="[" line="15" column="58" />
-        <mark key="]" line="15" column="71" />
-        <mark key="^" line="15" column="71" />
-        <mark key="." line="15" column="71" />
-      </file>
-      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1513135160596">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="81" column="18" />
-        <mark key="]" line="81" column="28" />
-        <mark key="." line="81" column="28" />
-        <mark key="^" line="81" column="28" />
+      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1513138168421">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/typescript/src/models/User.ts" timestamp="1511260479759">
         <mark key="[" line="24" column="2" />
@@ -100,45 +46,8 @@
         <mark key="^" line="26" column="76" />
         <mark key="." line="26" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/typescript/greeter.html" timestamp="1511256575041">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/server/app.js" timestamp="1512733328751">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/README.md" timestamp="1512730413609">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/publish/css/styles.css" timestamp="1512123514754">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="21" column="27" />
-        <mark key="^" line="21" column="27" />
-        <mark key="." line="21" column="27" />
-      </file>
       <file name="$USER_HOME$/bluetech/book/github.css" timestamp="1513134990869">
         <mark key="'" line="322" column="0" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1508653028961">
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="37" column="4" />
-        <mark key="." line="37" column="4" />
-        <mark key="^" line="37" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/node-crud/app.js" timestamp="1512727408612">
-        <mark key="'" line="26" column="9" />
-        <mark key="[" line="28" column="25" />
-        <mark key="]" line="29" column="24" />
-        <mark key="." line="29" column="24" />
-        <mark key="^" line="29" column="24" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1512724177981">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/node-crud/db.js" timestamp="1512726592017">
         <mark key="[" line="12" column="15" />
@@ -164,17 +73,149 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/nodejs/.gitignore" timestamp="1512724109687">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/typescript/src/interfaces/User.ts" timestamp="1511259778572">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="21" />
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/nodejs/server.js" timestamp="1512723434819">
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="24" column="38" />
+        <mark key="^" line="24" column="38" />
+        <mark key="." line="24" column="38" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/server/.gitignore" timestamp="1512730065578">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/typescript/src/server.ts" timestamp="1511259030496">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/typescript/tsconfig.json" timestamp="1511258249493">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="15" column="10" />
+        <mark key="^" line="15" column="10" />
+        <mark key="." line="15" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/nodejs/views/index.ejs" timestamp="1512723752102">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/length-limit.pipe.ts" timestamp="1508061662201">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="9" column="58" />
+        <mark key="." line="9" column="58" />
+        <mark key="^" line="9" column="58" />
+      </file>
+      <file name="$USER_HOME$/bluetech/book/TODO.md" timestamp="1513054560945">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/nodejs/views/partials/header.ejs" timestamp="1512721065566">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/node-crud/.gitignore" timestamp="1512725352379">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.html" timestamp="1508651302738">
+        <mark key="[" line="104" column="74" />
+        <mark key="]" line="105" column="28" />
+        <mark key="^" line="105" column="28" />
+        <mark key="." line="105" column="28" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/README.md" timestamp="1507272001666">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="23" column="26" />
+        <mark key="^" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/.env" timestamp="1512733174099">
+        <mark key="[" line="1" column="62" />
+        <mark key="]" line="3" column="57" />
+        <mark key="^" line="3" column="57" />
+        <mark key="." line="3" column="57" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/environments/environment.ts" timestamp="1510675057176">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="7" column="59" />
+        <mark key="^" line="7" column="59" />
+        <mark key="." line="7" column="59" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/server/config.js" timestamp="1512731133447">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/server/sample-email.json" timestamp="1512732902816">
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="15" column="71" />
+        <mark key="^" line="15" column="71" />
+        <mark key="." line="15" column="71" />
+      </file>
+      <file name="$USER_HOME$/workspace/typescript/greeter.html" timestamp="1511256575041">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/server/app.js" timestamp="1512733328751">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/README.md" timestamp="1512730413609">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/publish/css/styles.css" timestamp="1512123514754">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="21" column="27" />
+        <mark key="^" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+      </file>
+      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1508653028961">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="37" column="4" />
+        <mark key="." line="37" column="4" />
+        <mark key="^" line="37" column="4" />
+      </file>
+      <file name="$USER_HOME$/bluetech/book/content-typora.html" timestamp="1513138309550">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="60" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/node-crud/app.js" timestamp="1512727408612">
+        <mark key="'" line="26" column="9" />
+        <mark key="[" line="28" column="25" />
+        <mark key="]" line="29" column="24" />
+        <mark key="." line="29" column="24" />
+        <mark key="^" line="29" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1512724177981">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/nodejs/.gitignore" timestamp="1512724109687">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/index.html" timestamp="1507121750199">
         <mark key="[" line="8" column="101" />
@@ -194,12 +235,6 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/nodejs/server.js" timestamp="1512723434819">
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="24" column="38" />
-        <mark key="^" line="24" column="38" />
-        <mark key="." line="24" column="38" />
-      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/type-filter.pipe.ts" timestamp="1507989158731">
         <mark key="[" line="7" column="28" />
         <mark key="]" line="7" column="27" />
@@ -212,24 +247,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="$USER_HOME$/bluetech/book/content.html" timestamp="1513133077145">
+      <file name="$USER_HOME$/bluetech/book/content.html" timestamp="1513138303133">
         <mark key="'" line="3228" column="6" />
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="2" column="57" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="60" />
         <mark key="^" line="2" column="57" />
         <mark key="." line="2" column="57" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/server/.gitignore" timestamp="1512730065578">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/typescript/src/server.ts" timestamp="1511259030496">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/typescript/build/server.js" timestamp="1511259002772">
         <mark key="[" line="3" column="0" />
@@ -254,24 +277,6 @@
         <mark key="]" line="8" column="1" />
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/typescript/tsconfig.json" timestamp="1511258249493">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="15" column="10" />
-        <mark key="^" line="15" column="10" />
-        <mark key="." line="15" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/nodejs/views/index.ejs" timestamp="1512723752102">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-      </file>
-      <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/length-limit.pipe.ts" timestamp="1508061662201">
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="9" column="58" />
-        <mark key="." line="9" column="58" />
-        <mark key="^" line="9" column="58" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.module.ts" timestamp="1508650374528">
         <mark key="[" line="29" column="14" />
@@ -384,7 +389,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0ic3R5bGUuY3NzIiB0eXBlPSJ0ZXh0L2NzcyI+Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -393,31 +398,31 @@
         <text encoding="base64">PGJvZHk+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aDEgewogICAgY29sb3I6ICNlZTNlODA7Cn0KCnAgewogICAgYmFja2dyb3VuZC1jb2xvcjogYmlzcXVlOwogICAgYm9yZGVyOiAzcHggc29saWQgZ3JlZW47Cn0KCmhyIHsKICAgIGJvcmRlcjogM3B4IHNvbGlkIHJlZDsKfQoKcHJlIHsKICAgIGJvcmRlcjogMnB4IHNvbGlkIGRvZGdlcmJsdWU7Cn0K</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0ic3R5bGUuY3NzIiB0eXBlPSJ0ZXh0L2NzcyI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGh0bWwgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMnB4IGRhc2hlZCBkb2RnZXJibHVlOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAtM21tOwogICAgICAgIG1hcmdpbi1yaWdodDogLTNtbTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGJvcmRlcjogMnB4IGRhc2hlZCBkb2RnZXJibHVlOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAtM21tOwogICAgICAgIG1hcmdpbi1yaWdodDogLTNtbTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAtM21tOwogICAgICAgIG1hcmdpbi1yaWdodDogLTNtbTsK</text>
