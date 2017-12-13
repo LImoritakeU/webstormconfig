@@ -87,12 +87,12 @@
         <mark key="^" line="15" column="71" />
         <mark key="." line="15" column="71" />
       </file>
-      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1513061374644">
+      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1513132432743">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="65" column="16" />
-        <mark key="]" line="65" column="13" />
-        <mark key="." line="65" column="13" />
-        <mark key="^" line="65" column="13" />
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/typescript/src/models/User.ts" timestamp="1511260479759">
         <mark key="[" line="24" column="2" />
@@ -208,12 +208,6 @@
         <mark key="]" line="35" column="32" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="26" />
-      </file>
-      <file name="$USER_HOME$/bluetech/book/content.html" timestamp="1513061654386">
-        <mark key="[" line="2893" column="16" />
-        <mark key="]" line="2894" column="11" />
-        <mark key="." line="2894" column="11" />
-        <mark key="^" line="2894" column="11" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/server/.gitignore" timestamp="1512730065578">
         <mark key="[" line="0" column="0" />
