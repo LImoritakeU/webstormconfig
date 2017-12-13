@@ -87,12 +87,12 @@
         <mark key="^" line="15" column="71" />
         <mark key="." line="15" column="71" />
       </file>
-      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1513132432743">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="25" />
-        <mark key="^" line="5" column="25" />
+      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1513135160596">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="81" column="18" />
+        <mark key="]" line="81" column="28" />
+        <mark key="." line="81" column="28" />
+        <mark key="^" line="81" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/typescript/src/models/User.ts" timestamp="1511260479759">
         <mark key="[" line="24" column="2" />
@@ -120,6 +120,9 @@
         <mark key="]" line="21" column="27" />
         <mark key="^" line="21" column="27" />
         <mark key="." line="21" column="27" />
+      </file>
+      <file name="$USER_HOME$/bluetech/book/github.css" timestamp="1513134990869">
+        <mark key="'" line="322" column="0" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.component.ts" timestamp="1508653028961">
         <mark key="[" line="37" column="5" />
@@ -278,44 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="842" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="836" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="828" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="825" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="819" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="813" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="806" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="799" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="792" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="785" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="775" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="765" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="741" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="649" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="647" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="508" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="497" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="482" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="474" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="468" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="459" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="450" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="425" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="420" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="417" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="406" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="400" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="383" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="376" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="362" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="346" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="338" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="336" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="334" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="324" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="307" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="300" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="286" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="277" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="266" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="250" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
@@ -371,17 +336,55 @@
       <jump line="26" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
       <jump line="20" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
       <jump line="6" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
       <jump line="1727" column="2" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="1764" column="3" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="1819" column="2" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="1856" column="3" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="0" column="5" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="3225" column="6" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="19" column="8" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="58" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="83" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="68" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="64" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="59" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="49" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="39" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="29" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="12" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="1" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="5" column="11" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="6" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="13" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="20" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="27" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="34" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="38" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="44" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="56" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="160" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="253" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="257" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="269" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="280" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="284" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="289" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="308" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="322" column="0" filename="$USER_HOME$/bluetech/book/github.css" />
+      <jump line="33" column="7" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="36" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="46" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="56" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="65" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="71" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="75" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="82" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMnB4IGRhc2hlZCBkb2RnZXJibHVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -393,19 +396,19 @@
         <text encoding="base64">aDEgewogICAgY29sb3I6ICNlZTNlODA7Cn0KCnAgewogICAgYmFja2dyb3VuZC1jb2xvcjogYmlzcXVlOwogICAgYm9yZGVyOiAzcHggc29saWQgZ3JlZW47Cn0KCmhyIHsKICAgIGJvcmRlcjogM3B4IHNvbGlkIHJlZDsKfQoKcHJlIHsKICAgIGJvcmRlcjogMnB4IHNvbGlkIGRvZGdlcmJsdWU7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMnB4IGRhc2hlZCBkb2RnZXJibHVlOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAtM21tOwogICAgICAgIG1hcmdpbi1yaWdodDogLTNtbTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJvcmRlcjogMnB4IGRhc2hlZCBkb2RnZXJibHVlOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAtM21tOwogICAgICAgIG1hcmdpbi1yaWdodDogLTNtbTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAtM21tOwogICAgICAgIG1hcmdpbi1yaWdodDogLTNtbTsK</text>
@@ -414,10 +417,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogOHB0Owo=</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAtM21tOwogICAgICAgIG1hcmdpbi1yaWdodDogLTNtbTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiBtb25vc3BhY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAtM21tOwogICAgICAgIG1hcmdpbi1yaWdodDogLTNtbTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
