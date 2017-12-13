@@ -33,10 +33,11 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1513149720749">
+      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1513150456636">
         <mark key="[" line="84" column="5" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+        <mark key="^" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/typescript/src/models/User.ts" timestamp="1511260479759">
         <mark key="[" line="24" column="2" />
@@ -194,8 +195,8 @@
         <mark key="." line="37" column="4" />
         <mark key="^" line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/bluetech/book/content-typora.html" timestamp="1513147351301">
-        <mark key="'" line="18" column="13" />
+      <file name="$USER_HOME$/bluetech/book/content-typora.html" timestamp="1513150486850">
+        <mark key="'" line="1310" column="28" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="60" />
         <mark key="." line="4" column="0" />
@@ -281,16 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="250" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="233" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="227" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="222" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="219" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="208" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="200" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="198" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="196" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="169" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="161" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="116" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
@@ -381,6 +372,16 @@
       <jump line="75" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
       <jump line="82" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
       <jump line="18" column="13" filename="$USER_HOME$/bluetech/book/content-typora.html" />
+      <jump line="146" column="23" filename="$USER_HOME$/bluetech/book/content-typora.html" />
+      <jump line="257" column="23" filename="$USER_HOME$/bluetech/book/content-typora.html" />
+      <jump line="259" column="23" filename="$USER_HOME$/bluetech/book/content-typora.html" />
+      <jump line="330" column="23" filename="$USER_HOME$/bluetech/book/content-typora.html" />
+      <jump line="501" column="23" filename="$USER_HOME$/bluetech/book/content-typora.html" />
+      <jump line="703" column="23" filename="$USER_HOME$/bluetech/book/content-typora.html" />
+      <jump line="715" column="23" filename="$USER_HOME$/bluetech/book/content-typora.html" />
+      <jump line="726" column="23" filename="$USER_HOME$/bluetech/book/content-typora.html" />
+      <jump line="1006" column="23" filename="$USER_HOME$/bluetech/book/content-typora.html" />
+      <jump line="1310" column="28" filename="$USER_HOME$/bluetech/book/content-typora.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -390,7 +391,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>部署 Kafka</text>
+        <text>img</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0ic3R5bGUuY3NzIiB0eXBlPSJ0ZXh0L2NzcyI+Cg==</text>
@@ -427,15 +428,14 @@
       </register>
     </registers>
     <search>
-      <last-search>部署 Kafka</last-search>
+      <last-search>img</last-search>
       <last-offset />
-      <last-pattern>部署 Kafka</last-pattern>
+      <last-pattern>img</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGFyZWRcPg==</entry>
         <entry>#Modal</entry>
         <entry>#myM</entry>
         <entry>.fade</entry>
@@ -455,6 +455,7 @@
         <entry encoding="base64">PGJvZHk+</entry>
         <entry>部署kafka</entry>
         <entry>部署 Kafka</entry>
+        <entry>img</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
