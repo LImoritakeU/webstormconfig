@@ -209,6 +209,13 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="26" />
       </file>
+      <file name="$USER_HOME$/bluetech/book/content.html" timestamp="1513133077145">
+        <mark key="'" line="3228" column="6" />
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="2" column="57" />
+        <mark key="^" line="2" column="57" />
+        <mark key="." line="2" column="57" />
+      </file>
       <file name="$USER_HOME$/ezcloud/ezmail/server/.gitignore" timestamp="1512730065578">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -271,11 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="913" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="907" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="892" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="862" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="856" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="842" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="836" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="828" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
@@ -332,7 +334,6 @@
       <jump line="67" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="56" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="45" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="2917" column="0" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="5" column="60" filename="$USER_HOME$/bluetech/book/content.html" />
       <jump line="1207" column="70" filename="$USER_HOME$/bluetech/book/content.html" />
@@ -371,6 +372,12 @@
       <jump line="20" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
       <jump line="6" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
       <jump line="0" column="0" filename="$USER_HOME$/bluetech/book/style.css" />
+      <jump line="1727" column="2" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="1764" column="3" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="1819" column="2" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="1856" column="3" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="0" column="5" filename="$USER_HOME$/bluetech/book/content.html" />
+      <jump line="3225" column="6" filename="$USER_HOME$/bluetech/book/content.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -380,7 +387,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>應用案例</text>
+        <text encoding="base64">PGJvZHk+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aDEgewogICAgY29sb3I6ICNlZTNlODA7Cn0KCnAgewogICAgYmFja2dyb3VuZC1jb2xvcjogYmlzcXVlOwogICAgYm9yZGVyOiAzcHggc29saWQgZ3JlZW47Cn0KCmhyIHsKICAgIGJvcmRlcjogM3B4IHNvbGlkIHJlZDsKfQoKcHJlIHsKICAgIGJvcmRlcjogMnB4IHNvbGlkIGRvZGdlcmJsdWU7Cn0K</text>
@@ -417,16 +424,14 @@
       </register>
     </registers>
     <search>
-      <last-search>應用案例</last-search>
+      <last-search encoding="base64">PGJvZHk+</last-search>
       <last-offset />
-      <last-pattern>應用案例</last-pattern>
+      <last-pattern encoding="base64">PGJvZHk+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
-        <entry>toggle</entry>
         <entry>readFilter</entry>
         <entry>toggleAll</entry>
         <entry encoding="base64">XDxzdGFyZWRcPg==</entry>
@@ -445,6 +450,8 @@
         <entry>設計方針</entry>
         <entry>佈署</entry>
         <entry>應用案例</entry>
+        <entry>body</entry>
+        <entry encoding="base64">PGJvZHk+</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
