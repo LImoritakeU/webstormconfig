@@ -33,11 +33,10 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1513223556355">
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="23" column="39" />
-        <mark key="." line="23" column="39" />
-        <mark key="^" line="23" column="39" />
+      <file name="$USER_HOME$/bluetech/book/style.css" timestamp="1513227435022">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="47" column="5" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/typescript/src/models/User.ts" timestamp="1511260479759">
         <mark key="[" line="24" column="2" />
@@ -247,8 +246,10 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="$USER_HOME$/bluetech/book/content.html" timestamp="1513223773651">
+      <file name="$USER_HOME$/bluetech/book/content.html" timestamp="1513227031178">
         <mark key="'" line="460" column="139" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/typescript/build/server.js" timestamp="1511259002772">
         <mark key="[" line="3" column="0" />
@@ -273,6 +274,12 @@
         <mark key="]" line="8" column="1" />
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
+      </file>
+      <file name="$USER_HOME$/bluetech/book/test.html" timestamp="1513227085866">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="27" column="3" />
+        <mark key="." line="27" column="3" />
+        <mark key="^" line="27" column="3" />
       </file>
       <file name="$USER_HOME$/ezcloud/ezmail/client/src/app/app.module.ts" timestamp="1508650374528">
         <mark key="[" line="29" column="14" />
@@ -385,7 +392,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtLWgxLXRpdGxlOiBjb250ZW50KHRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBoMSB7CiAgICAgICAgICAgIHN0cmluZy1zZXQ6IGhlYWRlciBjb250ZW50KCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -397,31 +404,31 @@
         <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0ic3R5bGUuY3NzIiB0eXBlPSJ0ZXh0L2NzcyI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtLWgxLXRpdGxlOiBjb250ZW50KHRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBoMSB7CiAgICAgICAgICAgIHN0cmluZy1zZXQ6IGhlYWRlciBjb250ZW50KCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGgxOjpiZWZvcmUgeyBjb250ZW50OiAnQ2hhcHRlciAnIGNvdW50ZXIoaDEpOyB9Cg==</text>
+        <text encoding="base64">ICAgIGgxIHsKICAgICAgICBzdHJpbmctc2V0OiBoZWFkZXIgY29udGVudCgpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmctc2V0OiBoZWFkZXIgY29udGVudCh0ZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICBAdG9wLXJpZ2h0IHsKICAgICAgICAgICAgY29udGVudDogc3RyaW5nKGhlYWRlcik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9oMT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmctc2V0OiBoZWFkZXIgY29udGVudCh0ZXh0KTsK</text>
+        <text encoding="base64">ICAgIDwvaDI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGgxOjphZnRlciB7IGNvbnRlbnQ6ICcuJzsgfQo=</text>
+        <text encoding="base64">ICAgICAgICA8aDM+PC9oMz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGgxIHsgc3RyaW5nLXNldDogQ2hhcHRlciBjb250ZW50KHRleHQpOyB9Cg==</text>
+        <text encoding="base64">ICAgIDxoMj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGgxIHsgc3RyaW5nLXNldDogQ2hhcHRlciBjb250ZW50KHRleHQpOyB9Cg==</text>
+        <text encoding="base64">ICAgIDwvaDI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aDM+PC9oMz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
